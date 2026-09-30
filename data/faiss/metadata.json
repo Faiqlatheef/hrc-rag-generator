@@ -1,0 +1,8 @@
+[
+  {
+    "text": "Candidate Brief\nAgentic Coding Assessment\n RAG Generator\nAgentic Coding Assessment | Candidate Brief\nProblem Statement\nBuild a RAG Generator that:\n Accepts documents at runtime\n Creates a RAG application over those documents\n Allows users to ask questions and receive grounded answers\n Works with different document sets without code changes\nYou may choose the architecture, stack, models, tools and approach.\nSubmission\n1. Git repo of the working code\n2. Complete AI agent transcripts, for example in Codex or Claude Code, use /export to get the\ntranscript",
+    "source": "RAG_Assessment_Candidate_Brief.pdf",
+    "page": 1,
+    "chunk_index": 0
+  }
+]

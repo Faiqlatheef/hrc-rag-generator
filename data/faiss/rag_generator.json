@@ -1,0 +1,935 @@
+{
+  "embedding_model": "all-MiniLM-L6-v2",
+  "records": [
+    {
+      "id": "04cf1362-6871-4bd7-bb99-8203db43b847",
+      "text": "¹MJò™ îó‹ 7 è™M ªõOf†´ˆ F¬í‚è÷‹",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 0,
+        "document_id": "geo G-7 T",
+        "page": 1
+      }
+    },
+    {
+      "id": "df37a651-f108-4e2c-b9b2-f3b600e7f328",
+      "text": "C»Á\\¨ £õh¡À II •u»õ® £v¨¦ - 2015 Cµshõ® £v¨¦ - 2016 £v¨¦›ø©²øh¯x. C¢¡À, PÀÂ öÁÎ±mkz vønUPÍzvÚõÀ ¨›ßmöP¯õº Aa\\PzvÀ Aa]h¨£mk, öÁÎ°h¨£mhx.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 1,
+        "document_id": "geo G-7 T",
+        "page": 2
+      }
+    },
+    {
+      "id": "1e4ff545-1192-4f82-9454-8a2aa89f95cd",
+      "text": "C»Á\\¨ £õh¡À iii ÷u]¯ Ru® ]Õ »[Põ uõ÷¯ & |® ]Õ »[Põ |÷©õ |÷©õ |÷©õ |÷©õ uõ÷¯ |Àö»ÈÀ ö£õ¼ ^µo |»[PÒ ¯õÄ® {øÓ Áõß©o »[Põ bõ»® ¦PÌ ÁÍ Á¯À |v ©ø» ©»º |Ög÷\\õø» öPõÒ »[Põ |©xÖ ¦P¼h® GÚ JÎºÁõ´ |©xv HÀ uõ÷¯ |© uø» {Úui ÷©À øÁz÷uõ÷© |©x°÷µ uõ÷¯ & |® ]Õ »[Põ |÷©õ |÷©õ |÷©õ |÷©õ uõ÷¯ |©uõµ¸Ò BÚõ´ |øÁ uÂº EnºÁõÚõ´ |©÷uº Á¼¯õÚõ´ |ÂÀ _u¢vµ® BÚõ´ |©vÍø©ø¯ |õm÷h |S ©i uøÚ÷¯õm÷h Aø©ÄÖ® AÔÄh÷Ú AhÀ ö\\Ô xoÁ¸÷Í & |® ]Õ »[Põ |÷©õ |÷©õ |÷©õ |÷©õ uõ÷¯ |©uõº JÎ ÁÍ÷© |Ô¯ ©»º GÚ {»Ä® uõ÷¯ ¯õö©»õ® J¸ P¸øn AøÚ£¯¢u GÈÀöPõÒ ÷\\´PÒ GÚ÷Á C¯¾Ö ¤ÍÄPÒ uø© AÓ÷Á CÈöÁÚ }UQk÷Áõ® DÇ ]÷µõ©o ÁõÌÄÖ §©o |÷©õ |÷©õ uõ÷¯ & |® ]Õ »[Põ |÷©õ |÷©õ |÷©õ |÷©õ uõ÷¯.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 2,
+        "document_id": "geo G-7 T",
+        "page": 3
+      }
+    },
+    {
+      "id": "3159c81f-cc50-4068-8f98-26f1a7817bd7",
+      "text": "C»Á\\¨ £õh¡À iv J¸ uõ´ ©UPÒ |õ©õ÷Áõ® Jß÷Ó |õ® ÁõÊ® CÀ»® |ß÷Ó Eh¼À Kk® Jß÷Ó |® S¸v {Ó® AuÚõÀ \\÷Põuµº |õ©õ÷Áõ® JßÓõ´ ÁõÊ® ÁÍ¸® |õ® |ßÓõ´ CÆ CÀ¼Û÷» |»÷© ÁõÌuÀ ÷Ásk©ß÷Óõ ¯õÁ¸® Aß¦ P¸øn²hß JØÖø© ]ÓUP ÁõÌ¢vkuÀ ö£õßÝ® ©o²® •zx©À» & Ax÷Á ¯õßÖ ©È¯õa ö\\ÀÁ©ß÷Óõ. BÚ¢u \\©µU÷Põß PÂøu°ß ö£¯º¨¦.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 3,
+        "document_id": "geo G-7 T",
+        "page": 4
+      }
+    },
+    {
+      "id": "54bd9986-0d94-40cb-80ac-43a5c815e99c",
+      "text": "C»Á\\¨ £õh¡À v öPÍµÁ PÀÂ Aø©a\\›ß ö\\´v AÔÄ ªPzx›u©õP ÁÍºa]¯øh¢x Á¸QßÓ J¸ ²Pzv÷»÷¯ |õ® ÁõÌQß÷Óõ®. ÂgbõÚ®, öuõÈÝm£®, øPzöuõÈÀ, PÀÂ •øÓø© BQ¯ AøÚzx® •Êø©¯õÚ ©õØÓzvØS Em£kÁx uÂºUP •i¯õu uõS®. C®©õØÓ[PÒ ‰»® E»P® ©mk©ßÔ E»QÀ ÁõÊQßÓÁºPÐ® £µ¢u ©õØÓ[PÐUSm£mk Á¸ÁøuU Põn»õ®. CzuS ©õØÓ[PÐUS Cø¯Ä£hõx ÁÇø© ÷£õßÖ ÁõÇ •Ø£kÁx CßøÓ¯ \\‰Pa `Ç¼À AÆÁÍÄ EP¢uuÀ». CßÖ \"¦zuP®' GßÓ GsnUP¸Th J¸ÁøP ©õØÓzvØSm£mkÒÍx. AßÖ |õ® £¯ß£kzv¯ \"¦zuP®' CßÖ C»zvµÛ¯À ÁiÁ® ö£ØÔ¸¨£øuU Põn»õ®. CßÖ PoÛz xøÓPÎÀ ]ÖÁº öuõhUP® CøÍbº \\‰P® Áøµ ¡ÀPøÍ Áõ]¨£uØS ¤µ£À¯® ö£ØÔ¸UQßÓõºPÒ. ¦zuP® JßÔß }sh Põ»¨ £¯ß£õk, öuÎÁõÚ Aa_¨ £v¨¦, •øÓ¯õÚ {Óa ÷\\ºUøP, {Ó¨ £S¨¦ •u¼¯ÁØøÓU P¸zvØöPõÒÁuß ‰»® ªPÄ® E¯º¢u uµzv»õÚ ¡ÀPøÍ E¸ÁõUP •i²® GÚ B÷»õ]UP¨£mkÒÍx. A¢u B÷»õ\\øÚø¯U P¸zvØöPõsk •ßöÚkUP¨£mh •ß÷Úõia ö\\¯ØÔmhzvß ö£Ö÷£ÓõP ¦v¯ ©ØÖ® }shPõ»® {ø»zv¸UPUTi¯ ö\\¯ØøPU Phuõ]°À C¢u¨ £õh¡À Aa]h¨£mkÒÍx. CuÞhõPU QøhUS® ö£Ö÷£ØÔøÚ¨ £S¨£õ´Ä ö\\´uuß ¤ßÚº Caö\\¯ØÔmhzvß AkzuPmh",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 4,
+        "document_id": "geo G-7 T",
+        "page": 5
+      }
+    },
+    {
+      "id": "677d56a2-eee1-41f1-8f54-4c6ae28fb8cd",
+      "text": "zvß ö£Ö÷£ÓõP ¦v¯ ©ØÖ® }shPõ»® {ø»zv¸UPUTi¯ ö\\¯ØøPU Phuõ]°À C¢u¨ £õh¡À Aa]h¨£mkÒÍx. CuÞhõPU QøhUS® ö£Ö÷£ØÔøÚ¨ £S¨£õ´Ä ö\\´uuß ¤ßÚº Caö\\¯ØÔmhzvß AkzuPmh |hÁiUøPPÒ wº©õÛUP¨£hÄÒÍÚ. \"]Ó¢uøÁ÷¯ ]ÖÁºPÐUS' GßÓ J¸ TØÖ Esk. AuøÚ Aøh²® ö£õ¸mk PÀÂ Aø©a_ GkUS® •¯Ø]PÐUS PÀÂ öÁÎ±mkz vønUPÍzvß ‰»® QøhUQßÓ FUPzvøÚ |õß ö£›x® ©vUQ÷Óß Gß£øuz öu›¯¨£kzu Â¸®¦Qß÷Óß. AQ» Âµõä Põ›¯Á\\® PÀÂ Aø©a\\º",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 5,
+        "document_id": "geo G-7 T",
+        "page": 5
+      }
+    },
+    {
+      "id": "5aa3fa4e-90ee-4507-90a0-60fef8d70cef",
+      "text": "C»Á\\¨ £õh¡À vi •ßÝøµ AÔÄ, vÓß, JÊUP ÂÊª¯[PÒ, ußÚ®¤UøPPÒ ©ØÖ® £ÇUPÁÇUP[ PøÍ¨ ö£ØÖUöPõÒÁuØPõP ÷©ØöPõÒÐ® PØÓÀ ö\\¯Ø£õk PÀÂ GÚ AÔ¯¨£kQßÓx. GßÖ® ÷£õ» •øÓ¯õÚ PØÓö»õßÖ Bµ®£©õÁx £õh\\õø»U PÀÂ ‰»©õP÷Á BS®. |õmiØSa ö\\¯ØÔÓß ªUP GvºPõ»¨ ¤µø\\ö¯õ¸Áøµ E¸ÁõUSÁuØS AÁ]¯©õÚ Bµ®£ AzvÁõµ® £õh\\õø» ‰»÷© Ch¨£kQßÓx Gß£vÀ \\¢÷uPªÀø». C¢uÁøP°À \\‰P® HØÖUöPõÒÐ® ]Ó¢u ¤µø\\PøÍ |õmkUS ÁÇ[S® ÷|õUøP •ßøÁz÷u C¢¡À BUP¨£mkÒÍx. £õh\\õø»¨ £õhzvmh® Põ»zvØSUPõ»® ©õØÓ¨£mk AuØQn[P ¦v¯ £õh¡ÀPÒ E¸ÁõUP¨£mk E[PÐUS ÁÇ[P¨£kQßÓÚ. Cuß ÷|õUP® {PÌPõ»zvÀ Põn¨£k® AÔøÁ E[PÐUS ÁÇ[Q ÁÍºa]¯øh¢u ÂgbõÚzöuõÈÝm£ AÔÄhß Ti¯ GvºPõ» E»QØS E[PøÍz u¯õº£kzxÁuØ÷P BS®. Cuß {ªzu® Ph¢u Bsk uµ® 1, uµ® 7, uµ® 11 BQ¯ uµ[PÐUS¨ ¦v¯ £õh¡ÀPÒ AÔ•P¨£kzu¨£mhxhß CÆÁõsk uµ® 2, uµ® 8 BQ¯ÁØÔØS¨ ¦v¯ ¡ÀPÒ AÔ•P¨£kzu¨£kQßÓÚ. Caö\\¯Ø£õk öuõhº¢x Á¸® BskPÎ¾® |øh•øÓ¨£kzu¨£hÄÒÍx. PÀÂ öÁÎ±mkz vønUPÍzvÚõÀ ÁÇ[P¨£k® C¨£õh¡¼ß ‰»® •Êø©¯õÚ ¤µø\\ö¯õ¸ÁµõS® AÝ£Ázøu¨ ö£ØÖUöPõÒÁuØS AÁ]¯©õÚ EÖxøn",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 6,
+        "document_id": "geo G-7 T",
+        "page": 6
+      }
+    },
+    {
+      "id": "c927a6af-7642-4ce8-b27b-a1cf4fe8be6c",
+      "text": "Ø£õk öuõhº¢x Á¸® BskPÎ¾® |øh•øÓ¨£kzu¨£hÄÒÍx. PÀÂ öÁÎ±mkz vønUPÍzvÚõÀ ÁÇ[P¨£k® C¨£õh¡¼ß ‰»® •Êø©¯õÚ ¤µø\\ö¯õ¸ÁµõS® AÝ£Ázøu¨ ö£ØÖUöPõÒÁuØS AÁ]¯©õÚ EÖxøn E[PÐUSU QøhUSö©Ú Gvº£õºUQß÷Óß. C¢¡ø» öÁÎ°kÁvÀ £[PÎ¨¦a ö\\´u GÊzuõÍº, £v¨£õ]›¯º SÊ EÖ¨¤ÚºPÐm£h AøÚÁ¸US® ©ØÖ® PÀÂ öÁÎ±mkz vønUPÍ Ezv÷¯õPzuºPÐUS® GÚx |ßÔPøÍz öu›ÂUQ÷Óß. I. G®. ÷P. ¥. C»[P][P PÀÂ öÁÎ±mk Bøn¯õÍº |õ¯P® PÀÂ öÁÎ±mkz vønUPÍ® C_¸£õ¯ £zuµ•À». 2016.12.02",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 7,
+        "document_id": "geo G-7 T",
+        "page": 6
+      }
+    },
+    {
+      "id": "9e860e86-da3f-4ee3-bb61-69570fb049da",
+      "text": "C»Á\\¨ £õh¡À vii è‡è£EŠ¹‹ «ñŸð£˜¬õ»‹ v¸ I. G®. ÷P. ¥. C»[P][P è™M ªõOf†´ Ý¬íò£÷˜ ï£òè‹ è™M ªõOf†´ˆ F¬í‚è÷‹. õNè£†ì™ v¸©v h¤Ò³. H. {º©»õ ¤¯^¼ Ý¬íò£÷˜ (ÜHM¼ˆF) è™M ªõOf†´ˆ F¬í‚è÷‹. Þ¬íŠð£‚è‹ v¸ ]. Põsj£ß ÜHM¼ˆF Ü½õô˜ è™M ªõOf†´ˆ F¬í‚è÷‹. v¸©v Bº. H. j. Gß. ¹£][í HóF Ý¬íò£÷˜ è™M ªõOf†´ˆ F¬í‚è÷‹. v¸©v. AÝ£õ ©x£õÛ ÃµµzÚ àîM Ý¬íò£÷˜ è™M ªõOf†´ˆ F¬í‚è÷‹. v¸©v. Â. â. h¯Úõ i¾U] ÜHM¼ˆF Ü½õô˜ è™M ªõOf†´ˆ F¬í‚è÷‹. ðFŠð£CKò˜ °¿ ]÷µìh ÷£µõ]›¯º Gì. H. ÷|õº÷£m ¹MJò™ ¶¬ø ªè£¿‹¹Š ð™è¬ô‚èöè‹. ]÷µìh ÷£µõ]›¯º Gß. ÷P. u[PÀ» è÷QŠ ð™è¬ô‚èöè‹. v¸ Bº. ¤. ¥›ì ðg†¬ê Ý¬íò£÷˜ (æŒ¾) ðg†¬êˆ F¬í‚è÷‹. v¸©v Ga. u\\|õ¯UP Hóîñ ðFŠð£CKò˜ (æŒ¾) è™M ªõOf†´ˆ F¬í‚è÷‹. v¸©v Bº. H. j. Gß. ¹£][í HóF Ý¬íò£÷˜ è™M ªõOf†´ˆ F¬í‚è÷‹. v¸©v Bº. uÚÁºzuÚ C«óvì MK¾¬óò£÷˜ «îCò è™M GÁõè‹.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 8,
+        "document_id": "geo G-7 T",
+        "page": 7
+      }
+    },
+    {
+      "id": "ab2b1caf-e9f4-49ca-b322-ef64e770cf38",
+      "text": "C»Á\\¨ £õh¡À viii Ëô£‚è‚ °¿ v¸©v Gì. £õ»_¢uµ® æŒ¾ ªðŸø HóFŠ ðg†¬ê Ý¬íò£÷˜ ðg†¬êˆ F¬í‚è÷‹. v¸©v Gì. G. Ga íúèÚõ àîM‚ è™MŠ ðEŠð£÷˜ õôò‚ è™M‚ è£Kò£ôò‹, ªîU«òM†ì. v¸©v ¯õÈÛ P¸nõPµß ÝCKò˜ ªè£/ ê£‰î A«÷ò˜ è™ÖK, ªè£¿‹¹ - 6. ö\\ÀÂ ]Áa]zvµõ £ÇÛ ÝCKò Ý«ô£êè˜ õôò‚ è™M è£Kò£ôò‹, ò£›Šð£í‹. v¸©v h¤Ò³. Põ¢v ö£÷µµõ uº©ÁºzuÚ ÝCKò˜ ¹Qî d†ì˜‚ è™ÖK, c˜ªè£¿‹¹. v¸©v Gß. GÀ \\¢vµ»uõ ÝCKò Ý«ô£êè˜ õôò‚ è™M‚ è£Kò£ôò‹, ñ£ˆî¬÷. v¸ Bº. GÀ \\¢vµÿ ÝCKò Ý«ô£êè˜ «è£†ì‚ è™M‚ è£Kò£ôò‹, F¾ôŠH†®. ðFŠð£CKò˜ - ªñ£N ö\\ÀÂ |ÁµzvÚ® uºæÛ ÜHM¼ˆF Ü½õô˜ cF Ü¬ñ„², ªè£¿‹¹ -12 èEQ õ®õ¬ñŠ¹ v¸ |÷håß xåõ¢uß Ë™ õ®õ¬ñŠð£÷˜ è™M ªõOf†´ˆ F¬í‚è÷‹. v¸ \\zv÷ÁÀ \\zv¯^»ß Ë™ õ®õ¬ñŠð£÷˜ è™M ªõOf†´ˆ F¬í‚è÷‹. ðìƒèœ, Ü†¬ìŠðì‹ v¸ \\zv÷ÁÀ \\zv¯^»ß Ë™ õ®õ¬ñŠð£÷˜ è™M ªõOf†´ˆ F¬í‚è÷‹. v¸©v Â. â. h¯Úõ i¾U] ÜHM¼ˆF Ü½õô˜ è™M ªõOf†´ˆ F¬í‚è÷‹. ö\\ÀÂ Bº. H. ²÷µUPõ i¾U] Ë™ õ®õ¬ñŠð£÷˜ è™M ªõOf†´ˆ F¬í‚è÷‹.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 9,
+        "document_id": "geo G-7 T",
+        "page": 8
+      }
+    },
+    {
+      "id": "973a813c-60f6-4c9a-885b-acc9c2c834da",
+      "text": "C»Á\\¨ £õh¡À ix 01 02 03 04 05 1.1 ¦Â°ß ÁiÁ® 1.2 AP»U÷PõkPÐ® ö|k[÷PõkPÐ® 1.3 Psh[PÐ® \\•zvµ[PÐ® 5.1 £h[PøÍ¨ ¤µv ö\\´uÀ 2.1 ¦Â°¯À Ÿv¯õÚ uÛzxÁ® 2.2 \\‰P Aøh¯õÍ® 2.3 \\‰P A¤Â¸zv 4.1 C»[øP°À {PÊ® C¯ØøP AÚºzu[PÒ 4.2 AÚºzuzvØS •P® öPõkzuÀ 4.3 §÷PõÍ Põ»{ø» ©õØÓ[PÒ 3.1 ©ø»|õmk {»z÷uõØÓ® 3.2 E»ºÁ»¯ {»z÷uõØÓ® 3.3 DµÁ»¯ {»z÷uõØÓ® 3.4 ¯õÌ Shõ|õk ©ØÖ® wÄPÎß {»z÷uõØÓ® 3.5 Pøµ÷¯õµ {»z÷uõØÓ® ö£õ¸ÍhUP® |õ® ÁõÊ® ¦ÂU÷PõÍ® C»[øP°ß uÛzxÁ® C»[øP°ß {»z÷uõØÓ® C¯ØøP ChºPÐ® AÚºzu[PÐ® £h[PøÍ¨ £¯ß£kzuÀ",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 10,
+        "document_id": "geo G-7 T",
+        "page": 9
+      }
+    },
+    {
+      "id": "4ee3fe9c-a05d-47c6-9042-a738a7665f7f",
+      "text": "C»Á\\¨ £õh¡À x",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 11,
+        "document_id": "geo G-7 T",
+        "page": 10
+      }
+    },
+    {
+      "id": "5b924a8e-022b-4e6e-aff3-617279e9fb73",
+      "text": "¦Â°ß ÁiÁ®, AP»U÷Põk, ö|k[÷Põk, Psh[PÒ, \\•zvµ[PÒ Gß£Ú £ØÔ¯ uPÁÀPÒ ‰»® ¦Âø¯¨ £ØÔU PØÓ÷» C¢u Azv¯õ¯zvß ¤µuõÚ ÷|õUP©õS®. ï£‹ õ£¿‹ ¹M‚«è£÷‹01",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 12,
+        "document_id": "geo G-7 T",
+        "page": 11
+      }
+    },
+    {
+      "id": "ed9aa82f-810b-4891-ac12-a8a148b069aa",
+      "text": "ï£‹ õ£¿‹ ¹M‚«è£÷‹ ¹MJò™ C»Á\\¨ £õh¡À 02 |õ® ÁõÊ® ¦ÂU÷PõÍ©õÚx C¯ØøP°ß AØ¦u E¸ÁõUP® BS®. uØ÷£õx QøhUQßÓ uPÁÀPÐU÷PØ£ }º, ÁÎ Gß£ÚÁØøÓU öPõsk E°›Ú[PÐUSa \\õuP©õÚ `ÇÀ Põn¨£kQßÓ J÷µö¯õ¸ ÷PõÒ ¦Â÷¯ BS®. E¸ 1.1 ¦Âa _ÇØ] ¦Â uÚx Aa]À _ÇßÖ öPõsk, `›¯øÚ²® _ØÔ Á¸Áx ¦Âa _ØÖøP GÚ¨£k®. ¦Â uÚx Aa]À ußøÚz uõ÷Ú _ØÖÁuØS GkUS® Põ»® 24 ©ozv¯õ»[PÍõS®. Cøu J¸ |õÒ GßÖ® TÓ»õ®. ¦Â `›¯øÚa _ØÔ Áµ GkUS® Põ»® 365 |õmPÍõS®. Cx J¸ Á¸h©õPÄ® P¸u¨£k®. ¦Â°ß ÁiÁ® Ph¢u Põ»zvÀ ¦Â°ß ÁiÁ® £ØÔ¨ £À÷ÁÖ P¸zxUPÒ {»Â¯ ÷£õx®, ¦Â ÷PõÍ ÁiÁ©õÚx Gß£x uØ÷£õx \\¢÷uPªßÔ {¹¤UP¨£mkÒÍx. Âs öÁÎ°¼¸¢x GkUP¨£mh ¦Â°Úx JÎ¨ £h[PøÍ¨ £›^¼¨£uß ‰»® Ax ÷©¾® EÖv¨ £kzu¨£mkÒÍx. ¦Â ÷PõÍ ÁiÁõÚuõPU P¸u¨£mh ÷£õx®, Ax •Êø©¯õÚ ÷PõÍ ÁiÁzvøÚU öPõsi¸UPÂÀø». Põµn® ¦Â°ß •øÚÄ¨ £Sv umøh¯õÚ ußø©ø¯U öPõsi¸¨£xhß, ¦Â°ß ©zv¯ ÷Põmka _ØÓÍÄ •øÚÄa _ØÓÍøÁÂhU Tku»õP E¸ 1.2 ÂsöÁÎ°¼¸¢x GkUP¨£mh ¦Â°ß JÎ¨£h®",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 13,
+        "document_id": "geo G-7 T",
+        "page": 12
+      }
+    },
+    {
+      "id": "66918d38-1f4f-4465-9658-2f57c56c3817",
+      "text": "C»Á\\¨ £õh¡À 03 ï£‹ õ£¿‹ ¹M‚«è£÷‹ ¹MJò™ C¸¨£x©õS®. C¸¨¤Ý®, CøÁ ªPU SÖQ¯ ÷ÁÖ£õkPÒ Gß£øu¨ ¦ÒÎ Â£µ[PÎÞhõP ÂÍ[QU öPõÒÍ»õ®. E¸ 1.3 ¦Â°ß ÁiÁ® 12757km 12714km ©zv¯ ÷Põmk Âmh® - = 12757 km •øÚÄ Âmh® = 12714 km ©zv¯ ÷Põmka _ØÓÍÄ = 40077 km •øÚÄa _ØÓÍÄ = 39943 km ¦Â ÷©Ø£µ¨¤ß £µ¨£ÍÄ 510 ªÀ¼¯ß \\xµU Q÷»õ«ØÓº BS®. ‰»® & : www.univewstoday.com ö\\¯Ø£õkPÒ 1. i. ¦Âa _ÇØ], _ØÖøP Gß£Ú £ØÔa _¸UP©õP ÂÍUSP. ii. ¦Âa _ÇØ], _ØÖøP Gß£Ú {PÌÁuØS GkUS® Põ» AÍÂøÚU SÔ¨¤kP. 2. ¦Â J¸ •Êø©¯õÚ ÷PõÍ® AÀ» Gß£uØPõÚ Buõµ[PÒ ¯õøÁ? AP»U÷PõkPÐ® ö|k[÷PõkPÐ® ¦Â°¯À Ÿv¯õP¨ §÷PõÍ® JßøÓ AÁuõÛU S®÷£õx, A[S ÁhUQ¼¸¢x öuØPõPÄ®, ÷©ØQ¼¸¢x QÇUPõPÄ® Áøµ¯¨£mh ÷PõkPÒ C¸¨£øuU Põn»õ®. CU÷PõkPÒ ©ÛuÚõÀ E¸ÁõUP¨£mh PØ£øÚU ÷Põk PÍõS®. AøÁ AP»U ÷PõkPÒ, ö|k[ ÷PõkPÒ GÚ¨ ö£¯º ö£ÖQßÓÚ. E¸ 1.4 AP», ö|k[÷PõkPÒ",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 14,
+        "document_id": "geo G-7 T",
+        "page": 13
+      }
+    },
+    {
+      "id": "1fd7b3cd-27af-49cb-a06a-5ff2337f9933",
+      "text": "ï£‹ õ£¿‹ ¹M‚«è£÷‹ ¹MJò™ C»Á\\¨ £õh¡À 04 ¦Â°¯À Ÿv¯õÚ ÷PõÍzøua _ØÔ ÷©ØQ¼¸¢x QÇUPõPU Qøh¯õP Â›¢x ö\\À¾® ÷PõkPÒ AP»U÷PõkPÒ GÚ¨ ö£¯º ö£Ö®. ©õv›U ÷PõÍzvÀ ÁhUQ¼¸¢x öuØPõPU SzuõP }sk ö\\À¾® ÷PõkPÒ ö|k[÷PõkPÒ GÚ¨ ö£¯º ö£Ö®. (E¸ 1.4 ) ÷PõÍzvß ©zv°À Qøh¯õP Aø©¢xÒÍ ÷Põk 0º AP»U÷Põk AÀ»x ©zv¯÷Põk GÚ¨£k®. E¸ 1.5 AP»U÷PõkPÒ ©zv¯ ÷Põmiß ÁhUS¨ £Sv Áh AøµU÷PõÍ® GÚÄ®, öuØS¨ £Sv öußÚøµU ÷PõÍ® GÚÄ® AøÇUP¨£k®. CuÚõÀ ©zv¯ ÷PõmkUS ÁhU÷P Aø©¢xÒÍ ÷PõkPÒ Áh AP»U÷PõkPÒ GÚÄ®, öuØ÷P Aø©¢xÒÍ ÷PõkPÒ öuß AP»U ÷PõkPÒ GÚÄ® ö£¯º ö£Ö®. AP»U÷PõkPÎÀ •UQ¯©õÚ ÁØøÓ E¸ 1.5 CøÚ AÁuõÛzx CÚ[Põn •i²®. 90º AP»U ÷Põk •øÚÄ¨ ¦ÒÎ¯õPU Põmh¨ £mkÒÍx. 90º Áh AP»U ÷Põk, Áh x¸Á® GÚÄ®, 90º öuß AP»U÷Põk öuß x¸Á® GÚÄ® AøÇUP¨£kQßÓx. ö\\¯Ø£õkPÒ E¸ 1.5 CøÚ AÁuõÛzx ÷PõÍzvß ¤µuõÚ AP»U ÷PõkPøÍ CÚ® Psk AÁØøÓ¨ ö£¯›kÁxhß ö£Ö©õÚ[PøÍ²® SÔ¨¤kP. ÷PõÍzvß Áh•øÚÄ, öuß•øÚÄ Gß£ÁØøÓ Cønzx Áøµ¯¨ £mkÒÍ ÷PõkPÒ ö|k[÷PõkPÒ GÚ¨£k®. ¤›zuõÛ¯õÂß QÕßÂa |PµzvÞhõP Áøµ¯¨£mkÒÍ 0º",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 15,
+        "document_id": "geo G-7 T",
+        "page": 14
+      }
+    },
+    {
+      "id": "2f9eda1f-b18e-4060-ab64-2e36bfc23de5",
+      "text": "¨ ö£¯›kÁxhß ö£Ö©õÚ[PøÍ²® SÔ¨¤kP. ÷PõÍzvß Áh•øÚÄ, öuß•øÚÄ Gß£ÁØøÓ Cønzx Áøµ¯¨ £mkÒÍ ÷PõkPÒ ö|k[÷PõkPÒ GÚ¨£k®. ¤›zuõÛ¯õÂß QÕßÂa |PµzvÞhõP Áøµ¯¨£mkÒÍ 0º ÷Põk QÕßÂa ö|k[÷Põk GÚ¨£k®.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 16,
+        "document_id": "geo G-7 T",
+        "page": 14
+      }
+    },
+    {
+      "id": "d97bb119-c916-4753-9ede-89c95dee1d61",
+      "text": "C»Á\\¨ £õh¡À 05 ï£‹ õ£¿‹ ¹M‚«è£÷‹ ¹MJò™ E¸ 1.6 ö|k[÷PõkPÒ CU ÷Põmiß ÷©ØS¨ £Sv°À Aø©¢xÒÍ ÷PõkPÒ ÷©ØS ö|k[÷PõkPÒ GÚÄ®, QÇUS¨ £Sv°À Aø©¢xÒÍ ÷PõkPÒ QÇUS ö|k[÷PõkPÒ GÚÄ® AøÇUP¨ £kQßÓÚ. ©zv¯ ö|k[÷Põmi¼¸¢x QÇUS¨ £UP ©õP 180º Áøµ²®, ÷©ØS¨ £UP©õP 180º Áøµ²® ö|k[÷PõkPÒ 360º BP¨ ¤›UP¨ £mkÒÍÚ. BøP¯õÀ 180º ö|k[÷Põk, QÇUS ö|k[÷Põk, ÷©ØS ö|k[÷Põk BQ¯ CµskUS® ö£õxÁõÚuõS®. 180º ö|k[÷Põmøh Ai¨£øh¯õPU öPõsk \\ºÁ÷u\\z vPvU÷Põk Aøh¯õÍªh¨£mkÒÍx. ]» ÷ÁøÍPÎÀ 180º ÷Põk ÷|µõÚ ÷PõhõP Aø©²©õÚõÀ |õöhõßÖ CµshõP¨ ¤›UP¨£k® {ø» E¸ÁõS® Gß£uõÀ AuøÚz uÂº¨ £uØPõPa \\ºÁ÷u\\z vPvU÷Põk |õkPøÍ¨ ¤›UPõuÁõÖ ö\\À¾® ÷PõhõPU Põmh¨£mkÒÍx. }[PÒ PØÖUöPõsh AP», ö|k[ ÷PõkPÒ E»P¨ ¦ÓÄ¸Á¨ £hzvÀ Â›¢x ö\\À¾® ußø©ø¯¨ £h® 1.1 CÀ AÁuõÛzx CÚ[Psk öPõÒÐ[PÒ. £h® 1.1 AP», ö|k[÷PõkPøÍU Põmk® E»P¨ £h® B]¯õ I÷µõ¨£õ Áh Aö©›UPõ B¤›UPõ AÄìv÷µ¼¯õ C¢x \\•zvµ® Azv»õ¢vU \\•zvµ® BmiU \\•zvµ® ©PµU ÷Põk ©zv¯ ÷Põk öuß Aö©›UPõ PhPU ÷Põk £_¤U \\•zvµ® £_¤U \\•zvµ® \\ºÁ÷u\\ vPvU",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 17,
+        "document_id": "geo G-7 T",
+        "page": 15
+      }
+    },
+    {
+      "id": "71c847fa-8306-4623-a95d-febd8a52304b",
+      "text": "õ¨£õ Áh Aö©›UPõ B¤›UPõ AÄìv÷µ¼¯õ C¢x \\•zvµ® Azv»õ¢vU \\•zvµ® BmiU \\•zvµ® ©PµU ÷Põk ©zv¯ ÷Põk öuß Aö©›UPõ PhPU ÷Põk £_¤U \\•zvµ® £_¤U \\•zvµ® \\ºÁ÷u\\ vPvU ÷Põk QÕßÂa ÷Põk A¢uõmiU \\•zvµ® 0 75 öu 0 60 öu 0 45 öu 0 30 öu 0 15 öu 0 15 öu 0 30 öu 0 45 öu 0 60 öu 0 0 0 75 Á 0 60 Á 0 45 Á 0 30 Á 0 15 Á 0 15 Á 0 30 Á 0 45 Á 0 60 Á 0 0 0 165 ÷© 0 150 ÷© 0 135 ÷© 0 120 ÷© 0 105 ÷© 0 90 ÷© 00 60 ÷© 75 ÷© 0 45 ÷© 0 30 ÷© 0 15 ÷© 0 15 Q 0 30 Q 0 45 Q 0 60 Q 0 75 Q 0 90 Q 0 105 Q 0 120 Q 0 135 Q 0 150 Q 0 165 Q 0 180 Q 0 0 0 165 ÷© 0 150 ÷© 0 135 ÷© 0 120÷© 0 105÷© 0 90 ÷© 0 75 ÷© 0 60 ÷© 0 45 ÷© 0 30 ÷© 0 15 ÷© 0 15 Q 0 30 Q 0 45 Q 0 60 Q 0 75 Q 0 90 Q 0 105 Q 0 120 Q 0 135 Q 0 150 Q 0 165 Q 0 180 Q 0 0",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 18,
+        "document_id": "geo G-7 T",
+        "page": 15
+      }
+    },
+    {
+      "id": "55e4f247-c38a-4c75-88c5-46d9b545cb8d",
+      "text": "ï£‹ õ£¿‹ ¹M‚«è£÷‹ ¹MJò™ C»Á\\¨ £õh¡À 06 ¦Â ÷©Ø£µ¨¤À Aø©¢xÒÍ Kº Chzvß Aø©øÁU SÔ¨£õPÄ®, ªPa \\›¯õPÄ® SÔ¨¤kÁuØS AP», ö|k[÷PõkPÒ £¯ß£kzu¨£kQßÓÚ. ö\\¯Ø£õkPÒ 1. E»P¨ ¦ÓÄ¸Á¨£hzvÀ ¤ßÁ¸® AP», ö|k[÷Põk PøÍU SÔzx¨ ö£¯›kP. ©zv¯÷Põk (0º) PhPU÷Põk (Áh AP»U÷Põk 23 ½º) ©PµU÷Põk (öuß AP»U÷Põk 23 ½º) QÕßÂa÷Põk (0º) QÇUS ö|k[÷Põk (80º) BmiU Ámh® (Áh AP»U÷Põk 66 ½º) A¢uõmiU Ámh® (öuß AP»U÷Põk 66 ½º) 2. B]›¯›ß AÔÄøµUPø©¯ |kzuµ AÍÂ»õÚ öµâ÷£õ® £¢x JßÔøÚa ö\\´x Auß «x •UQ¯©õÚ AP», ö|k[÷PõkPøÍ Aøh¯õÍªkP. 3. ©õv›¨ §÷PõÍ® JßøÓ AÁuõÛzx¨ ¤ßÁ¸® |Pµ[PÎß AP», ö|k[÷Põmk Aø©ÄPøÍU SÔ¨¤kP. 1. öPõÊ®¦ 2. {³÷¯õºU 3. öPõÀPzuõ 4. ÷hõUQ÷¯õ 5. C»shß Psh[PÐ® \\•zvµ[PÐ® ¦Â÷©Ø£µ¨¦ 71 \\uÃu® }›Úõ¾®, 29 \\uÃu® {»zvÚõ¾® ‰h¨ £mkÒÍx. }º¨ £SvPÒ \\•zvµ[PÒ, PhÀPÒ Gß£ÚÁØøÓ²® {»¨ ¤µ÷u\\[PÒ Psh[PÒ, wÄPÒ Gß£ÚÁØøÓ²® öPõskÒÍÚ. Psh[PÒ ¦Â HÊ Psh[PøÍU öPõskÒÍx. }›ÚõÀ `Ç¨£mh £µ¢u {»¨£µ¨¦ Psh©õS®.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 19,
+        "document_id": "geo G-7 T",
+        "page": 16
+      }
+    },
+    {
+      "id": "75dff1c5-2715-451a-85b3-010d9f62df38",
+      "text": "C»Á\\¨ £õh¡À 07 ï£‹ õ£¿‹ ¹M‚«è£÷‹ ¹MJò™ £µ¨£ÍÄ (ªÀ¼¯ß \\xµU Q÷»õ«ØÓº)Psh[PÒ 43.6B]¯õ 30.3B¤›UPõ 25.3Áh Aö©›UPõ 17.8öuß Aö©›UPõ 14.0A¢uõmiUPõ 10.5I÷µõ¨£õ 8.9AÄìv÷µ¼¯õ wÄ Gß£x }›ÚõÀ `Ç¨£mh ]Ô¯ {»¨ £Sv¯õS®. {»¨£SvPøÍa `Ì¢x Põn¨£kQßÓ Pøµ÷¯õµ¨ £SvPÎÀ wÄPÒ £» Aø©¢xÒÍÚ. Áh Aö©›UPõ öuß Aö©›UPõ Q³£õ QÕß»õ¢x Iì»õ¢x ¤›zuõÛ¯õ I÷µõ¨£õ B¤›UPõ B]¯õ ¤¼¨ø£ßì wÄPÒ ¯¨£õÛ¯z wÄPÒ ÷£õºo÷¯õ AÄìv÷µ¼¯õ©hPìPõº C»[øP A¢uõmiUPõ _©õzvµõ ¯õÁõ → → → → → {³]»õ¢x → → → → £h® 1.2 E»Qß Psh[PÐ®, wÄPÐ® JÆöÁõ¸ Pshzv¾® Aµ]¯À Ÿv°À ¤›UP¨£mkÒÍ |õkPøÍU Põn»õ®. GÛÝ® AÄìv÷µ¼¯õU Psh©õÚx uÛ |õhõPÄ® EÒÍx. £h® 1.3 CøÚ AÁuõÛzxU Psh[PÎÀ Aø©¢xÒÍ |õkPøÍ CÚ[Psk öPõÒÐ[PÒ.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 20,
+        "document_id": "geo G-7 T",
+        "page": 17
+      }
+    },
+    {
+      "id": "5769554b-133d-4df3-8592-ca1105c13872",
+      "text": "ï£‹ õ£¿‹ ¹M‚«è£÷‹ ¹MJò™ C»Á\\¨ £õh¡À 08 £h® 1.3 E»Qß Aµ]¯À ¤›ÄPÒ \\•zvµ[PÒ Psh[PÐUS Cøh°À Aø©¢xÒÍ £µ¢u }º¨ £SvPÒ \\•zvµ[PÒ GÚÄ®, Psh[PÐUS A¸Q¾®, EÒÍP¨ £SvPÎ¾® Aø©¢xÒÍ ]Ô¯ }º¨ £SvPÒ PhÀPÒ GÚÄ® AøÇUP¨£kQßÓÚ. E»QÀ I¢x ¤µuõÚ \\•zvµ[PÒ C¸UQßÓÚ. \\•zvµ® £µ¨£ÍÄ (ªÀ¼¯ß \\xµU Q÷»õ«ØÓº) 1. £_¤U \\•zvµ® 156 2. Azv»õ¢vU \\•zvµ® 77 3. C¢x \\•zvµ® 69 4. A¢uõmiU \\•zvµ® 20 5. BmiU \\•zvµ® 14 á¨£õß PhÀ, ^ÚUPhÀ, ÁhPhÀ, ö\\[PhÀ ©zv¯ uøµU PhÀ ÷£õßÓÚ {»¨£SvPÐUS A¸Põø©°À Aø©¢xÒÍÚ. Pì¤¯ß PhÀ, HµÀ PhÀ ÷£õßÓÚ B]¯õ PshzvÝÒ Aø©¢xÒÍø©ø¯²® AÁuõÛUP»õ®.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 21,
+        "document_id": "geo G-7 T",
+        "page": 18
+      }
+    },
+    {
+      "id": "68822a73-3721-432e-aa9e-edc179622ccf",
+      "text": "C»Á\\¨ £õh¡À 09 ï£‹ õ£¿‹ ¹M‚«è£÷‹ ¹MJò™ ö\\¯Ø£õkPÒ 1. E»P¨ ¦ÓÄ¸Á¨£hzvÀ \\•zvµ[PøÍ }» {ÓzvÚõÀ {ÇØÔ¨ ö£¯›kP. 2. \\•zvµ[PÐhß Cøn¢xÒÍ ‰ßÖ PhÀPøÍ²®, |õmiß Em£Sv°À Aø©¢xÒÍ ‰ßÖ PhÀPøÍ²® SÔzx¨ ö£¯›kP. 3. ÷u\\¨£h ¨ ¦zuPzøu Buõµ©õPUöPõsk C¢x \\•zvµzvÀ C»[øPUS Asø©°À Aø©¢xÒÍ ‰ßÖ wÄPÎß ö£¯ºPøÍU SÔ¨¤kP. 4. E B F G C A BmiU \\•zvµ® öuß PhÀ v÷©õº PhÀ Aµ£µõU PhÀ ÷£õ£m PhÀ £_¤U \\•zvµ® Azv»õ¢vU \\•zvµ® £õÀiU PhÀ P¸[PhÀ HµÀ PhÀ Pì¤¯ß Ph À ö\\[PhÀ Aµ¤U PhÀ C¢x \\•zvµ® Áh PhÀ ©zv¯ uøµU PhÀ QÇUS ^ÚU Ph À ©g\\Ò PhÀ öuß ^ÚU Ph À á¨£ß PhÀ (QÇUS PhÀ) £_¤U \\•zvµ® JöPõhìU PhÀ PŸ¤¯ß PhÀ £h® 1.4 E»Qß \\•zvµ[PÐ®, PhÀPÐ®",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 22,
+        "document_id": "geo G-7 T",
+        "page": 19
+      }
+    },
+    {
+      "id": "ae4ae3ec-8683-4c5a-bc87-271a270f8e4f",
+      "text": "ï£‹ õ£¿‹ ¹M‚«è£÷‹ ¹MJò™ C»Á\\¨ £õh¡À 10 I. uµ¨£mkÒÍ E»P¨ £hzvÀ A,B,C GÚ Aøh¯õÍªh¨ £mkÒÍ AP»U÷PõkPÎß ö£¯ºPøÍU SÔ¨¤mk AÁØÔß ö£Ö©õÚ[PøÍ²®, E,F,G GÚ Aøh¯õÍªh¨ £mkÒÍ ö|k[÷PõkPÎß ö£Ö©õÚ[PøÍ²® GÊxP. II. £hzøu AÁuõÛzx C»[øP°ß C¸ £UP[PÎ¾® Aø©¢xÒÍ ¤µuõÚ AP»U÷PõkPøÍU SÔ¨¤kP. III. £hzvÀ SÔ¨¤h¨£mkÒÍ F ÷PõmkUS A¸QÀ Aø©¢xÒÍ wÂß ö£¯øµU SÔ¨¤kP. I V. £hzvÀ {ÇØÓ¨£mkÒÍ I¢x |õkPÎß ö£¯ºPøÍU SÔ¨¤kP. V. E»P¨ ¦ÓÄ¸Á¨ £hzvÀ (A) HÊ Psh[PøÍ²®, öÁÆ÷ÁÖ {Ó[PÍõÀ {ÇØÔU Põmi¨ ö£¯›kP. (B) AÄìv÷µ¼¯õ, A¢uõmiUPõU Psh[PøÍzuÂµ HøÚ¯ Psh[PÎ¾ÒÍ |õkPÒ CÆÂµsiøÚU SÔzx¨ ö£¯›kP. (C) ¤ßÁ¸® |Pµ[PøÍU SÔzx¨ ö£¯›kP. \\ß ¤µõß]ì÷Põ, Ô÷¯õi öáÛ÷µõ, øP÷µõ, hõUPõ J¨£øhPÒ 1. ÷u\\¨£h¨ ¦zuPzøu AÁuõÛzx, }[PÒ Â¸®¤¯ I¢x |Pµ[PøÍz öu›Äö\\´x AÁØÖUS AsªzxÒÍ AP»U÷Põk ö|k[÷Põk Gß£ÚÁØøÓ GÊxP. 2. PhPU÷Põk, ©PµU÷Põk, ©zv¯ ÷Põk Gß£Ú FhÖzxa ö\\À¾® AÀ»x AU÷PõkPÒ JÆöÁõßÔ¾® Aø©¢xÒÍ Cµsk |õkPøÍU SÔ¨¤kP.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 23,
+        "document_id": "geo G-7 T",
+        "page": 20
+      }
+    },
+    {
+      "id": "d14c33b0-b5ca-4370-a66d-85b8583e35c4",
+      "text": "C»Á\\¨ £õh¡À 11 ï£‹ õ£¿‹ ¹M‚«è£÷‹ ¹MJò™ E\\õzxønPÒ https://www.google.lk/?gws_rd=ssl#q=area+in+the+earth Pø»a ö\\õØPÒ ¦Â Earth mDÓúh ÷PõÒ Planet .%yf,dalh Aa_ Axis wlaIh _ÇØ] Rotation N%uKh _ØÖøP Revolution mßN%uKh AP»U÷PõkPÒ Latitudes wlaIdxY ö|k[÷PõkPÒ Longitudes foaYdxY ÂsöÁÎ Space wNHjldYh AÁuõÛ¨¦ Observation ksÍlaIKh ©zv¯÷Põmka _ØÓÍÄ Equatorial Circumference iul mßêh •øÚÄa _ØÓÍÄ Polar Circumference O%ej mßêh Âmh® Diameter úIalïNh PØ£øÚU ÷PõkPÒ Imaginary Lines uk(l,ams; f¾Ld Áh AøµU÷PõÍ® Northern Hemisphere W;=re w¾Of.da,h öuß AøµU÷PõÍ® Southern Hemisphere ol=Kq w¾Of.da,h ©zv¯ ÷Põk Equator iulh QÕßÂa ö|k[÷Põk Greenwich Meridian .s%ksÉ uOH foaYdxYh \\ºÁ÷u\\ vPvU÷Põk International Date Line cd;Hka;r Èk f¾Ldj PhPU÷Põk Tropic of Cancer l¾lgl ksj¾;kh ©PµU÷Põk Tropic of Capricorn ulr ksj¾;kh QÇUS ö|k[÷PõkPÒ East Longitudes kef.kysr foaYdxY",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 24,
+        "document_id": "geo G-7 T",
+        "page": 21
+      }
+    },
+    {
+      "id": "68942809-f2a6-4a05-9a73-5dd4eeb7fe25",
+      "text": "ï£‹ õ£¿‹ ¹M‚«è£÷‹ ¹MJò™ C»Á\\¨ £õh¡À 12 BmiU Ámh® Arctic Circle wdlaála jD;a;h A¢uõmiU Ámh® Antarctic Circle wekagdlaála jD;a;h Psh[PÒ Continents uydoaùm \\•zvµ[PÒ Oceans id.r PhÀPÒ Seas uqyqÿ wÄPÒ Islands ¥m;a",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 25,
+        "document_id": "geo G-7 T",
+        "page": 22
+      }
+    },
+    {
+      "id": "2042a2d8-b2fe-4bc9-ad6c-681bb6344661",
+      "text": "Þôƒ¬èJ¡ îQˆ¶õ‹02 C»[øP°ß ¦Â°¯À ©ØÖ® \\‰P Ÿv¯õÚ uÛzxÁ Aøh¯õÍ[PøÍ¨ £ØÔU PØÓ÷» C¨£õhzvß ÷|õUP©õS®.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 26,
+        "document_id": "geo G-7 T",
+        "page": 23
+      }
+    },
+    {
+      "id": "77296777-01cc-4830-878f-7f7366accbf2",
+      "text": "14 C»Á\\¨ £õh¡À Þôƒ¬èJ¡ îQˆ¶õ‹ ¹MJò™ JÆöÁõ¸ uÛ|£¸® AÁºPÍx EhÀ A®\\[PÒ, |hzøu¨ £s¦PÒ Gß£ÁØÖU÷PØ£ uÛzxÁ©õÚ Aøh¯õÍ[PøÍU öPõsi¸¨£º. A¢u Aøh¯õÍzxU÷PØ£ \\‰PzvÀ uÛ |£ºPøÍ¨ ¤›zuÔ¢x CÚ[Põn •i²®. Aøu¨ ÷£õ»÷Á JÆöÁõ¸ |õk® uÛzxÁ©õÚ Aøh¯õÍ[PøÍz ußÚPz÷u öPõskÒÍx. C»[øP°ß ¦Â°¯À Ÿv¯õÚ uÛzxÁ® QÕßÂa ÷Põk \\ºÁ÷u\\ vPvU ÷Põk 0º 0º Á180º SÎº Á»¯®/ •øÚÄ Á»¯® SÎº Á»¯®/ •øÚÄ Á»¯® CøhöÁ¨£ Á»¯® CøhöÁ¨£ Á»¯® ©zv¯ ÷Põk 0 o A¯Ú Á»¯® PhPU ÷Põk 23.5 o £õUS }›øn C»[øP ©PµU ÷Põk 23.5 o C¢x \\•zvµ® B¤›UPõ ©zv¯ ÷Põk ©õø» wÄPÒ B]¯õ £õUS }›øn C¢v¯õ A¢u©õß wÄPÒ C»[øP {U÷Põ£õº wÄPÒ AÄìv÷µ¼¯õ 60 40 100 80 780 820 840 04 0 47.04’Á - 77 0 01.40’Q 10 0 08.4’Á - 80 0 46.0’Q 10 0 05.0’Á - 80 0 03.0’Q PhÀø©À. 12 (Q.«.22.02 ) PhÀø©À. 24 (Q.«.44.04 ) PhÀø©À. 200 (Q.«. 340.04 )08 0 22.2’Á - 78 0 55.4’Q 11 0 16.0’Á - 82 0 24.4’Q Asªzu PhÀBÒ¦»U PhÀ C¢v¯õ C»[øP öPõÊ®¦ uÛzxÁ©õÚ ö£õ¸Íõuõµ Á»¯•®, ©õ\\øhuÀ uøhö\\´¯¨£mh Á»¯•® PßÛ¯õ S©› Cµõ÷©ìÁµ® C¢v¯",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 27,
+        "document_id": "geo G-7 T",
+        "page": 24
+      }
+    },
+    {
+      "id": "37028f77-b628-407c-9ecf-d5e817b5a3a6",
+      "text": "0 55.4’Q 11 0 16.0’Á - 82 0 24.4’Q Asªzu PhÀBÒ¦»U PhÀ C¢v¯õ C»[øP öPõÊ®¦ uÛzxÁ©õÚ ö£õ¸Íõuõµ Á»¯•®, ©õ\\øhuÀ uøhö\\´¯¨£mh Á»¯•® PßÛ¯õ S©› Cµõ÷©ìÁµ® C¢v¯ C»[øP PhÀ GÀø» uÛ zxÁ©õÚ ö£õ¸ Íõuõµ Á»¯•® öP¼ª¯º •øÚ £õUS }›øÚ C¢v¯ C»[øPU PhÀ GÀø» ©ßÚõº Shõ uø» ©ßÚõº £¸zvzxøÓ Áµ»õØÖ •UQ¯zxÁªUP }º¨¤µ÷u\\® * Cµõ÷©ìÁµ® ©õ\\øh uÀ uøhö\\´¯¨£mh Á»¯zvÚx® GÀø» Á £¸zvzxøÓ v¸÷Põn©ø» ÷u÷Á¢vµ •øÚ PvºPõ©® ©mhUPÍ¨¦ öPõÊ®¦ ]ÁöÚõÎ£õu ©ø» íØÓß ÷©mk {»® EÒÍPa \\©öÁÎ AÝµõu¦µ® ªî¢uø» ÔmiP» ¯õ¨£TÁ P»öuuµ Psi QÛPz÷íÚ ©zv¯ ©ø» |õk ÷©mk {»® ¥xÖuõ»Põ» |•ÝS» Q›PÀ ö£õzu |UQÒÀ öÁ¼©øh ÷©mk{»® v®¦»õP» ¯õÌ¨£õn® ©ßÚõº Pøµ÷¯õµa \\©öÁÎ A B C D FE E¸ 2.1 C»[øP°ß ¦Â°¯À Ÿv¯õÚ uÛzxÁ®",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 28,
+        "document_id": "geo G-7 T",
+        "page": 24
+      }
+    },
+    {
+      "id": "cbec5a85-32e6-4ffb-a213-b288f5cb20b6",
+      "text": "15 C»Á\\¨ £õh¡À Þôƒ¬èJ¡ îQˆ¶õ‹ ¹MJò™ ¦Â°¯À Ÿv°»õÚ uÛzxÁ® £h® 2.1 CøÚ AÁuõÛzuÀ ‰»® C»[øP°ß ¦Â°¯À Ÿv¯õÚ uÛzxÁzvøÚ ÂÍ[QUöPõÒÍ»õ®. £h® 2.1 A CÀ Põmh¨£mkÒÍ uØPø©¯ C»[øP PhPU ÷PõmiØS®, ©PµU ÷PõmiØS® Cøh÷¯ A¯Ú Á»¯zvÀ ©zv¯ ÷PõmkUS Asø©°À Aø©¢xÒÍx. CuØ÷PØ£ C »[øP Áh AøµU÷PõÍzvÀ QÇUS ö|k[÷PõmiÀ Aø©¢xÒÍx. C»[øP C¢v¯õÂ¼¸¢x ªP Jk[Q¯ BÇ©ØÓ Ph¼ÚõÀ ¤›UP¨ £mkÒÍx. Cx £õUS }›øn GÚ¨£kQßÓx. £h® 2.1 A & C»[øP°ß Aø©Âh® QÕßÂa ÷Põk \\ºÁ÷u\\ vPvU ÷Põk 0º 0º Á180º SÎº Á»¯®/ •øÚÄ Á»¯® SÎº Á»¯®/ •øÚÄ Á»¯® CøhöÁ¨£ Á»¯® CøhöÁ¨£ Á»¯® ©zv¯ ÷Põk 0 o A¯Ú Á»¯® PhPU ÷Põk 23.5 o £õUS }›øn C»[øP ©PµU ÷Põk 23.5 o £h® 2.1 B & C»[øP°ß \\õº¦ Aø©Âh® C¢x \\•zvµ® B¤›UPõ ©zv¯ ÷Põk ©õø» wÄPÒ B]¯õ £õUS }›øn C¢v¯õ A¢u©õß wÄPÒ C»[øP {U÷Põ£õº wÄPÒ AÄìv÷µ¼¯õ C»[øPz wÄ C¢x \\•zvµz vÀ C¢v¯ E£PshzxUS Asø©°À C¢v¯õÂ¼¸¢x ¤›UP¨£mkÒÍx. Asªzu _ØÖ¨ ¦ÓzvÀ EÒÍ {»¨£Sv ©ØÖ® \\•zvµ® ÷£õßÓÚ ÁØøÓ Ai¨£øh¯õPU öPõsk |õmiß Aø©ÂhzøuU PõmkuÀ \\õº¦ Aø©Âh® GßÖ AøÇUP¨£k®.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 29,
+        "document_id": "geo G-7 T",
+        "page": 25
+      }
+    },
+    {
+      "id": "fdff33d6-972d-447c-ae09-674247cd5651",
+      "text": "Asø©°À C¢v¯õÂ¼¸¢x ¤›UP¨£mkÒÍx. Asªzu _ØÖ¨ ¦ÓzvÀ EÒÍ {»¨£Sv ©ØÖ® \\•zvµ® ÷£õßÓÚ ÁØøÓ Ai¨£øh¯õPU öPõsk |õmiß Aø©ÂhzøuU PõmkuÀ \\õº¦ Aø©Âh® GßÖ AøÇUP¨£k®. £h® 2.1 B CøÚ AÁuõÛUS®÷£õx C»[ øP°ß \\õº¦ Aø©Âhzøu CÚ[Põn •i²®.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 30,
+        "document_id": "geo G-7 T",
+        "page": 25
+      }
+    },
+    {
+      "id": "69c43c55-6f89-4657-9146-ee9d33fdb2ca",
+      "text": "16 C»Á\\¨ £õh¡À Þôƒ¬èJ¡ îQˆ¶õ‹ ¹MJò™ C»[øP uÂµ C¢x \\•zvµzvÀ ©õø» wÄPÒ, A¢u©õß wÄPÒ, {U÷Põ£õº wÄPÒ, C»m\\z wÄPÒ ÷£õßÓÚÄ® Aø©¢xÒÍÚ. ö\\¯Ø£õk PÒ RÔmh Ch[PÐUS¨ ö£õ¸zu©õÚ ö\\õØPøÍ øÁzx¨ §µn¨£kzxP. 1. C»[øPUS ÁhU÷P ......................... Psh•®, öuØ÷P .............. \\•zvµ•® QÇU÷P ............... |õkPÐ® ÷©Ø÷P ................... Psh•® Aø©¢xÒÍÚ. 2. C»[øP°ß Áh ÷©ØSz vø\\°À Aø©¢xÒÍ ‰ßÖ wÄPÎß ö£¯ºPøÍU SÔ¨¤mk, AÁØøÓ C»[øP¨ ¦ÓÄ¸Á¨£hzvÀ SÔzxU PõmkP. 3. C»[øP C¢v¯õÄUS Asø©°À Aø©¢v¸¨£uõÀ ö£ØÖÒÍ |ßø©PÒ ‰ßÔøÚU SÔ¨¤kP. AP»U÷Põk, ö|k[÷Põk Gß£ÚÁØÖU Pø©¯ |õmiß Aø©ÂhzøuU PõmkuÀ uÛ Aø©Âh® GÚ AøÇUP¨£k®. £h® 2.1 C CÀ C»[øP°ß uÛ Aø©Âh® Põmh¨£mkÒÍx. CuØ÷PØ£, C»[øP Áh AP»U÷Põk 5º 55 1 - 9º 51 1 Cøh°¾®, QÇUS ö|k[ ÷Põk 79º 411 - 81º 531 Cøh°¾® Aø©¢xÒÍöuß£x öuÎÁõQßÓx. C»[øP°ß ö©õzu {»¨£µ¨¤ß AÍÄ 65610 km2 BS®. £h® 2.1 C & C»[øP°ß uÛ Aø©Âh® ‰»® : global.britannica.com 2015/03/13",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 31,
+        "document_id": "geo G-7 T",
+        "page": 26
+      }
+    },
+    {
+      "id": "17316de5-544e-4f07-8efc-252bb183d800",
+      "text": "17 C»Á\\¨ £õh¡À Þôƒ¬èJ¡ îQˆ¶õ‹ ¹MJò™ ö\\¯Ø£õk C»[øP°ß £µ¨£ÍøÁU Põmk® £h® 2.1 D CøÚ AÁuõÛzx RÔmh Ch[PøÍ {µ¨¦P. C»[øP°ß £µ¨£ÍÂøÚU P¸x®÷£õx ÷u÷Á¢vµ •øÚ° ¼¸¢x ........... •øÚ Áøµ ......... }Ízøu²®, .............. C¼¸¢x \\[P©ß P¢u •øÚÁøµ ............. AP»zøu²® öPõskÒÍx. C»[øP uÚU÷P E›zuõÚ |õmk GÀø»PøÍ²®, PhÀ GÀø»PøÍ²® öPõskÒÍx. 1994 |Á®£º ©õu® 16 B® vPv°¼¸¢x |øh•øÓ¨ £kzu¨£mh \\ºÁ÷u\\U PhÀ \\mhzvØPø©¯ E»Qß AøÚzxU PhØPøµ÷¯õµ® öPõsh Aµ_PÐUS® PhØ Pøµ÷¯õµ GÀø»°¼¸¢x 12 PhÀ ø©À GÀø» Áøµ BÐøP E›ø© ÁÇ[P¨£mkÒÍx. Cx BÒ¦»U PhÀ GÀø» GÚ AøÇUP¨£kQÓx. CuØS öÁÎ¨¦Ó©õP Asø©U PhÀ £Sv²®, ¤µzv÷¯P¨ ö£õ¸Íõuõµ Á»¯•® Aø©¢xÒÍx. C»[øP°ß BÒ¦»U PhÀ GÀø», ¤µzv÷¯P¨ ö£õ¸Íõuõµ Á»¯® Gß£Ú £h® 2.1 E CÀ Põmh¨ £mkÒÍÚ. 60 40 100 80 780 820 840 04 0 47.04’Á - 77 0 01.40’Q 10 0 08.4’Á - 80 0 46.0’Q 10 0 05.0’Á - 80 0 03.0’Q PhÀø©À. 12 (Q.«.22.02 ) PhÀø©À. 24 (Q.«.44.04 ) PhÀø©À. 200 (Q.«. 340.04 )08 0 22.2’Á - 78 0 55.4’Q 11 0 16.0’Á - 82",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 32,
+        "document_id": "geo G-7 T",
+        "page": 27
+      }
+    },
+    {
+      "id": "95513987-63fc-47d2-bd8d-cb35a0c813c6",
+      "text": "46.0’Q 10 0 05.0’Á - 80 0 03.0’Q PhÀø©À. 12 (Q.«.22.02 ) PhÀø©À. 24 (Q.«.44.04 ) PhÀø©À. 200 (Q.«. 340.04 )08 0 22.2’Á - 78 0 55.4’Q 11 0 16.0’Á - 82 0 24.4’Q Asªzu PhÀBÒ¦»U PhÀ C¢v¯õ C»[øP öPõÊ®¦ uÛzxÁ©õÚ ö£õ¸Íõuõµ Á»¯•®, ©õ\\øhuÀ uøhö\\´¯¨£mh Á»¯•® PßÛ¯õ S©› Cµõ÷©ìÁµ® C¢v¯ C»[øP PhÀ GÀø» uÛ zxÁ©õÚ ö£õ¸Íõuõµ Á»¯•® öP¼ª¯º •øÚ £õUS }›øÚ C¢v¯ C»[øPU PhÀ GÀø» ©ßÚõº Shõ uø» ©ßÚõº £¸zvzxøÓ Áµ»õØÖ •UQ¯zxÁªUP }º¨¤µ÷u\\® * Cµõ÷©ìÁµ® ©õ\\øhuÀ uøhö\\´¯¨£mh Á»¯zvÚx® GÀø» £h® 2.1 E & C»[øP°ß PhÀ GÀø» Á»¯[PÒ £h® 2.1 D - C»[øP°ß £µ¨£ÍÄ ‰»® : global.britannica.com 2015/03/13",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 33,
+        "document_id": "geo G-7 T",
+        "page": 27
+      }
+    },
+    {
+      "id": "b9a71ace-471f-46d7-b90c-aab886c8e7e3",
+      "text": "18 C»Á\\¨ £õh¡À Þôƒ¬èJ¡ îQˆ¶õ‹ ¹MJò™ AmhÁøn 2.1 uøµz÷uõØÓ¨ £s¦PÒ ©zv¯ ©ø»|õk (300 m ÷©Ø£mh) EÒÍPa \\©öÁÎPÒ (30 m & 300 m Cøh°»õÚ) Pøµ÷¯õµa \\©öÁÎPÒ (30 m SøÓÁõÚ) ©ø»z öuõhºPÒ ÷©mk {»[PÒ }ºÃÌa]PÒ PnÁõ´PÒ £ÒÍzuõUSPÒ \\©öÁÎPÒ £õøÓz öuõhºPÒ Ga\\U SßÖPÒ £µ¢u \\©öÁÎPÒ ShõUPÒ PhÜ÷µ›PÒ •øÚPÒ wÄPÒ Á £¸zvzxøÓ v¸÷Põn©ø» ÷u÷Á¢vµ •øÚ PvºPõ©® ©mhUPÍ¨¦ öPõÊ®¦ ]ÁöÚõÎ£õu ©ø» íØÓß ÷©mk {»® EÒÍPa \\©öÁÎ AÝµõu¦µ® ªî¢uø» ÔmiP» ¯õ¨£TÁ P»öuuµ Psi QÛPz÷íÚ ©zv¯ ©ø» |õk ÷©mk {»® ¥xÖuõ»Põ» |•ÝS» Q›PÀ ö£õzu |UQÒÀ öÁ¼©øh ÷©mk{»® v®¦»õP» ¯õÌ¨£õn® ©ßÚõº Pøµ÷¯õµa \\©öÁÎ £h® 2.1 F & C»[øP°ß uøµz÷uõØÓ Á»¯[PÒ C»[øP ]Ö wÁõP C¸¨¤Ý®, ªPa ]Ó¨£õÚ uøµz÷uõØÓ A®\\[PøÍU öPõskÒÍx. |õmiß ©zv°¾ÒÍ ©ø»¨ £Sv, EÒÍPa \\©öÁÎPÒ, Pøµ÷¯õµa \\©öÁÎPÒ Gß£Ú ¤µuõÚ ‰ßÖ uøµz÷uõØÓ Á»¯[PÍõS®. JÆöÁõ¸ Á»¯z v¾® JßÖUöPõßÖ ÷ÁÖ£mh ] UP»õÚ uøµz ÷uõØÓ¨ £s¦ PøÍU Põn»õ®. CzuøP¯ uøµz÷uõØÓ[PøÍU öPõskÒÍ C»[øP°ß C¯ØøP AÇS®, Cu©õÚ Põ»{ø»²® G©x |õmiß §÷PõÍ uÛzxÁ Aøh¯õÍzøu ÷©¾®",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 34,
+        "document_id": "geo G-7 T",
+        "page": 28
+      }
+    },
+    {
+      "id": "fa248e25-e9b5-4adc-9db2-aa735ba37a19",
+      "text": "õßÖ ÷ÁÖ£mh ] UP»õÚ uøµz ÷uõØÓ¨ £s¦ PøÍU Põn»õ®. CzuøP¯ uøµz÷uõØÓ[PøÍU öPõskÒÍ C»[øP°ß C¯ØøP AÇS®, Cu©õÚ Põ»{ø»²® G©x |õmiß §÷PõÍ uÛzxÁ Aøh¯õÍzøu ÷©¾® EÖv¨£kz xÁÚÁõS®. C»[øP°À Põn¨ £k® uøµz ÷uõØÓ A®\\[PÒ ©ØÖ® Põ»{ø»¨ £ÀÁøPø© Gß£Ú _ØÖ»õ¨ £¯oPøÍU PÁ¸ÁvÀ öÁØÔ PskÒÍÚ. £h® 2.1 F CÀ C»[øP°ß uøµz÷uõØÓ Á»¯[PÒ Põmh¨£mkÒÍÚ.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 35,
+        "document_id": "geo G-7 T",
+        "page": 28
+      }
+    },
+    {
+      "id": "92522e1d-595a-4c3d-9a06-0a7cf8621270",
+      "text": "19 C»Á\\¨ £õh¡À Þôƒ¬èJ¡ îQˆ¶õ‹ ¹MJò™ ö\\¯Ø£õk PÒ 1. i. C »[øP°ß ¦ÓÄ¸Á Á›¨£hzvÀ ‰ßÖ ¤µuõÚ uøµz÷uõØÓ Á»¯ [PøÍ²® SÔzx¨ ö£¯›kP. ii. ÷u\\¨£hzvøÚ AÁuõÛzx ©zv¯ ©ø»|õmiÀ Aø©¢ xÒÍ ¤µuõÚ ©ø»zöuõhºPÒ, ÷©mk{»[PÒ, }º ÃÌa]PÒ Gß£ÚÁØÔÀ JÆöÁõßÖUS® Cµsk Euõµn[PÒ Ãu® }[PÒ Áøµ¢u £hzvÀ SÔzx ö£¯›kP. iii. EÒÍPa \\©öÁÎ°À Aø©¢xÒÍ ‰ßÖ Ga\\U SßÖP øÍ²®, Pøµ÷¯õµ¨ ¤µ÷u\\zvÀ Aø©¢xÒÍ öPõÊ ®¦, £¸zvzxøÓ, ÷u÷Á¢vµ•øÚ, v¸÷P õn©ø», ©mhUPÍ¨¦ BQ¯ Ch[PøÍ²® SÔzx ¨ ö£¯›kP. 2. wÂß C¯ØøP AÇQøÚ GkzxUPõmk® uøµz÷uõØÓ A®\\[PÒ ‰ßÔøÚ U SÔ¨¤kP. C»[øP A¯Ú Á»¯zvÀ Aø©¢xÒÍ |õhõS®. CuÚõÀ BskUS 27ºC - 30ºC AÍÄ E¯º öÁ¨£{ø» {»ÄQÓx. SÎº £¸ÁzøuU Põn •i¯õx. wÁõP C¸¨£uõÀ Á¸h® •ÊÁx® £µÁ»õÚ ©øÇÃÌa] ö£Ó¨ £kQÓx. ©øÇÃ Ìa] ‰ßÖ •UQ¯ •øÓPÒ ‰»® ö£Ó¨£kQÓx. * £¸ÁUPõØÖ ©øÇ * ÷©ØPõÄøP ©øÇ * `ÓõÁÎ ©øÇ",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 36,
+        "document_id": "geo G-7 T",
+        "page": 29
+      }
+    },
+    {
+      "id": "a21f2e2c-911c-4214-8453-4fc26fedaff1",
+      "text": "20 C»Á\\¨ £õh¡À Þôƒ¬èJ¡ îQˆ¶õ‹ ¹MJò™ ÷©ØPõÄøP ©øÇ öuß÷©À £¸ÁUPõØÖ ©øÇ ÁhRÌ £¸ÁUPõØÖ ©øÇ `ÓõÁÎ ©øÇ * ÷© * áüß * áüø» C»[øP°ß ÷©ØS, öuß÷©ØS¨ ¤µ÷u\\[PÐUS AvP ©øÇ QøhUQßÓx. * ©õºa * H¨µÀ * ö\\¨öµ®£º * JU÷hõ£º • Ci²hß Ti¯ ©øÇ. • Á¸h® •ÊÁx® {PÊ® £¸ÁU PõØÖ Á¾Áøh²®÷£õx Cx Á¾ÂÇUS®. * JU÷hõ£º * |Á®£º * i\\®£º • Pk® PõØÖhß Ti¯ ©øÇ. • Á[PõÍ Â›ShõÂÀ E¸ÁõS® PõØÖU SÇ¨£[PÎÚõÀ `ÓõÁÎ {PÊ®. C»[øP°ß ÁhUS ©ØÖ® QÇUS¨ ¤µ÷u\\[PÐUS AvP ©øÇ QøhUQßÓx. C»[øP°ß öuß÷©ØS, ÁhQÇUS vø\\PÎ¼¸¢x |õmiÝÒ ¤µ÷Á]US® £¸ÁPõ»U PõØ÷Óõmh[PÒ £¸ÁUPõØÖ GÚ¨ ö£¯º ö£ÖQÓx. * |Á®£º * i\\®£º * áÚÁ›",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 37,
+        "document_id": "geo G-7 T",
+        "page": 30
+      }
+    },
+    {
+      "id": "409fa2f5-028e-4cdf-a08d-b3e8b2d9268d",
+      "text": "21 C»Á\\¨ £õh¡À Þôƒ¬èJ¡ îQˆ¶õ‹ ¹MJò™ ö£¨µÁ› ©ØÖ® BPìm ©õu[PÎÀ C»[øP°À ö£õxÁõP Áµsh Põ»{ø» {»Ä®. ÂÁ\\õ°PÒ Á¯¼À ö|À AÖÁøh ö\\´Áx CUPõ»zv÷»÷¯ BS®. Á¸h® •ÊÁx® £µ®¤U Põn¨£k® AvP ©øÇ ÃÌa], öÁ¨£{ø» Gß£øÁ Põµn©õP Dµ¼¨¦¨ £Sv PÎÀ GßÖ® £_ø©¯õÚ Põk - PÒ £µ¢x Põn¨£kQßÓÚ. ©øÇÃÌa], öÁ¨£{ø» ÷£õ»÷Á ChÄ¯µ ÷ÁÖ£õk Põµn©õP ©ø»¨ ¤µ÷u \\[PÎÀ E¯µ® SøÓ¢u uõÁµ[PÐ® ÷©mk {»[ PøÍ Asªzu £SvPÎÀ £zuÚ, u»õøÁ¨ ¦À{»[ PøÍ²® Põn»õ®. Áµsh Põ»{ø» {»Ä® ÁÓÒ Á»¯[PÒ, SøÓ ÁÓÒ Á»¯[PÎÀ •m£ØøÓU PõkPÒ, ¦uºPÒ Gß£ÚÄ® Pøµ÷¯õµ[PÎÀ PhÜ÷µ›PÒ, BØÖ •PzxÁõµ[PÎÀ PshÀ uõÁµ[ PÐ® Põn¨£kQßÓÚ. C»[øP°ß Pøµ÷¯õµ¨ ¤µ÷u\\zv¼¸¢x |õmiß Em£SvUS¨ £¯oUS® _ØÖ»õ¨ £¯oPÐUS 70 Q÷»õ «ØÓºPÒ Áøµ¯õÚ SÖQ¯ yµzvÝÒ uøµz÷uõØÓ ÷ÁÖ£õkPÒ, Põ»{ø», PõkPÎß ‰køP¨ £ÀÁøPø© Gß£ÚÁØøÓU PõnUTi¯uõ°¸¨£xhß AÁØÔß AÇøP²® AÝ£ÂUP •i²®. Dµ¼¨£õÚ GßÖ® £_ø©¯õÚ PõkPÒ ¦À{»[PÒ ÁÓÒÁ»¯¨ £ØøÓU PõkPÒ ©ø»¨¤µ÷u\\[PÎÀ E¯µ® SøÓ¢u uõÁµ[PÒ PshÀ uõÁµ[PÒ E¸ 2.2 C»[øP°À öÁÆ÷ÁÖ ¤µ÷u\\[PÎÀ ÁÍ¸® uõÁµ[PÎß C¯À¦PÒ",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 38,
+        "document_id": "geo G-7 T",
+        "page": 31
+      }
+    },
+    {
+      "id": "ed61c801-5ffb-4368-82a6-b3e25eb58319",
+      "text": "22 C»Á\\¨ £õh¡À Þôƒ¬èJ¡ îQˆ¶õ‹ ¹MJò™ ö\\¯Ø£õk RÔmh Ch[PøÍ {µ¨¦P. C»[øP ................ Á»¯zvÀ Aø©¢xÒÍ |õhõS®. CuÚõÀ ............. AÍÂÀ E¯º öÁ¨£{ø» {»ÄQÓx. Bsk •ÊÁx®..................., ...................... •øÓPÎÚõÀ ©øÇÃÌa] ö£Ó¨£kuÀ ]Ó¨£®\\©õS®. ©øÇÃÌa] ................ ................ ÷ÁÖ£õkPÒ Põµn©õP JÆöÁõ¸ ¤µ÷u\\zvß uõÁµ[PÎ¾® £ÀÁøPø©ø¯U Põn»õ®. \\‰P Aøh¯õÍ® E¸ 2.1 & C»[øP°ß \\‰P Aøh¯õÍ®",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 39,
+        "document_id": "geo G-7 T",
+        "page": 32
+      }
+    },
+    {
+      "id": "7b53926d-0e6e-4419-8a01-be7936c08d62",
+      "text": "23 C»Á\\¨ £õh¡À Þôƒ¬èJ¡ îQˆ¶õ‹ ¹MJò™ \\‰P® C»[øP ][PÍÁº, uªÇº, •ì½®PÒ, £Ó[Q¯º GÚ¨ £À÷ÁÖ CÚ[PøÍa \\õº¢x, ö£Ízu®, C¢x, Cì»õ®, QÔìuÁ® BQ¯ \\©¯[ PøÍ¨ ¤ß£ØÖ£ÁºPøÍU öPõsh J¸ |õhõS®. CuÚõÀ £À¼Ú £À©u P»õ\\õµ[PÒ öPõsh |õhõP C»[øP CÚ[Põn¨£mkÒÍx. JÆöÁõ¸Áµõ¾® ¤ß£ØÓ¨£k® ©µ¦ ÁÈa \\®¤µuõ¯[PÒ, £ÇUP ÁÇUP[PÒ, |®¤UøPPÒ, Bøh AoPÒ, ö©õÈPÒ Gß£ÚÁØÖU÷PØ£ \\‰Pz uÛzxÁa \\h[SPÒ, £s¦PÒ Pmiö¯Ê¨£¨£kQßÓÚ. C»[øP°À ÁõÊ® £À¼Ú, £» \\©¯ ©UPÍõÚ |õ[PÒ AøÚÁ¸® C»[øP¯ºPÒ. ÷u]¯ ©µ¦›ø©PÒ £À¼Ú, £» \\©¯ ©UPøÍU öPõsh \\‰PzvÀ Põn¨£kQßÓ £À÷ÁÖ P»õ\\õµ ©µ¦›ø©PøÍ²®, P»õ\\õµU TÖPøÍ²® C»[øP°À PõnU Ti¯uõ²ÒÍÚ. CUP»õ\\õµ E›ø©PÎÚõÀ |õmiß uÛzxÁ® öuÎÁõPU Põmh¨£kQÓx. P»õ\\õµ ©µ¦›ø©PøÍ¨ ¤ßÁ¸® •øÓ°À ÷ÁÖ£kzv CÚ[Põn •i²®. PõnUTi¯ ©µ¦›ø©PÒ ÁÈ£õmih[PÒ Põn•i¯õu ©µ¦›ø©PÒ * ^Q›¯õ * µß©_ §[Põ * ¯õÌ¨£õnU ÷Põmøh * SÍ[PÐ ® }º¨£õ\\Ú¨ £oPÐ® * ][Pµõá ÁÚ® * |õ©À §[Põ * îUPkÁ PhØPøµ * öÁ¨£ }¸ØÖUPÒ * }ºÃÌa]PÒ ö£ÍvP Ÿv¯õP¨ £õºUP •i¯õx, BÚõÀ ©Ûu |hzøu°ÚõÀ öÁÎ¨£kzu¨£kÁÚ. * Â¸¢vÚøµ",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 40,
+        "document_id": "geo G-7 T",
+        "page": 33
+      }
+    },
+    {
+      "id": "02ed392e-a7fc-4ff4-ac54-a8dc4e406201",
+      "text": "º¨£õ\\Ú¨ £oPÐ® * ][Pµõá ÁÚ® * |õ©À §[Põ * îUPkÁ PhØPøµ * öÁ¨£ }¸ØÖUPÒ * }ºÃÌa]PÒ ö£ÍvP Ÿv¯õP¨ £õºUP •i¯õx, BÚõÀ ©Ûu |hzøu°ÚõÀ öÁÎ¨£kzu¨£kÁÚ. * Â¸¢vÚøµ E£\\›zuÀ * •v÷¯õøµU öPÍµÂzuÀ * £ÇUPÁÇUP[PÒ * ©v¨¦ ©›¯õøu ÷ÁÖ BUP[PÒ ©Ûuß E¸ÁõUQ¯øÁ C¯ØøP¯õP E¸ÁõÚøÁ ÷u]¯ ©µ¦›ø©PÒ * ©kz÷uÁõ»¯® * PvºPõ©® * ÿ©Põ÷£õv * Cì»õª¯ £ÒÎÁõ\\À * |À¿º ÷PõÂÀ",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 41,
+        "document_id": "geo G-7 T",
+        "page": 33
+      }
+    },
+    {
+      "id": "9de490db-865f-4c5b-adc1-3a20369fab30",
+      "text": "24 C»Á\\¨ £õh¡À Þôƒ¬èJ¡ îQˆ¶õ‹ ¹MJò™ ªP¨ £øÇ¯ Põ»zv¼¸¢÷u C»[øP ©UPÒ Â¸¢vÚøµ E£\\›¨£vÀ |õmh•ÒÍÁºPÒ GÚU RøÇz÷u\\ |õkPÎ¾®, ÷©ø»z÷u\\ |õkPÎ¾® ¦PÌ ö£ØÔ¸¢uÚº. £h® 2.2 & C»[øP°ß ÷u]¯ ©µ¦›ø©PÒ",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 42,
+        "document_id": "geo G-7 T",
+        "page": 34
+      }
+    },
+    {
+      "id": "28b946ac-0aa0-4939-9115-a3d1ff517735",
+      "text": "25 C»Á\\¨ £õh¡À Þôƒ¬èJ¡ îQˆ¶õ‹ ¹MJò™ E»P ©µ¦›ø©PÒ C»[øPUS›zuõÚ ©µ¦›ø©PÎß ]Ó¨¦U Põµn©õP AøÁ \\ºÁ÷u\\ Ÿv°À E»P ©µ¦›ø©PÍõP HØÖUöPõÒÍ¨£mkÒÍÚ. CuÚõÀ ¦Â°¯À Ÿv°¾® Â÷\\h uÛzxÁ[PøÍ¨ ö£ØÖÒÍÚ. C»[øP C¢uU P»õ\\õµ E›ø©PÎß uÛa ]Ó¨¤ÚõÀ öÁÎ|õmka _ØÖ»õ¨ £¯oPøÍU PÁ¸ Áv¾® öÁØÔö£ØÖÒÍx. CuÚõÀ C»[øP E»P |õkPÎøh÷¯²®, E»Qß RøÇz÷u\\ |õkPÎøh÷¯²® ¤µ£À¯©õÚ _ØÖ»õ ø©¯©õP ÂÍ[SQßÓx. C¢u E»P ©µ¦›ø©PøÍ ©ÛuÚõÀ E¸ÁõUP¨£mhøÁ, ©ØÖ® C¯ØøP¯õP E¸ÁõÚøÁ GÚÄ® ÁøP¨£kzu»õ®. Psi ¦Ûu |Pµ®, ^Q›¯õ, u®¦ÒøÍ ÂPõøµ, ö£õ»ßÚÖøÁ ¦µõuÚ |Pµ®, Põ¼U÷Põmøh, AÝµõu¦µ ¦Ûu |Pµ®. ][PµõáU Põk, ©zv¯ ©ø»¨ ¤µ÷u\\[PÒ ©ÛuÚõÀ E¸ÁõUP¨£mhøÁ C¯ØøP¯õÚøÁ BvÁõ] ©UPÒ * C»[øPa \\‰Pz uÛzxÁ® £ØÔU P¸x®÷£õx £À÷ÁÖ ¤µ÷u\\[PÎÀ ÁõÊ® BvÁõ]PÒ G©x |õmkUSa ]Ó¨¤øÚ AÎ¨£ÁºPÍõÁº. ©Q¯[PøÚ, u®£õÚ, öíßÚõÛP» BQ¯ ¤µ÷u \\[PÎÀ ÁõÊ® CÁºPÒ u©U÷P²›zuõÚ ö©õÈ, £ÇUPÁÇUP[PÒ, Bøh AoPÒ, P¸ÂPÒ, P»õ\\õµ A®\\[PÒ ÷£õßÓÚÁØøÓ¨ £õxPõzx ÁõÌQßÓÚº. `Ç¾US Cø\\ÁõÚ •øÓ°À ö\\´¯¨£k® £°ºaö\\´øP, ÷Ámøh¯õkuÀ, Põmkz vµÂ¯[PøÍa",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 43,
+        "document_id": "geo G-7 T",
+        "page": 35
+      }
+    },
+    {
+      "id": "639f0d14-2628-4a96-80fa-cdaf5d231fac",
+      "text": "õÚ ö©õÈ, £ÇUPÁÇUP[PÒ, Bøh AoPÒ, P¸ÂPÒ, P»õ\\õµ A®\\[PÒ ÷£õßÓÚÁØøÓ¨ £õxPõzx ÁõÌQßÓÚº. `Ç¾US Cø\\ÁõÚ •øÓ°À ö\\´¯¨£k® £°ºaö\\´øP, ÷Ámøh¯õkuÀ, Põmkz vµÂ¯[PøÍa ÷\\P›zuÀ Gß£Ú AÁºPÎß ÁõÌÁõuõµzvØPõÚ ÁÈ•øÓPÍõS®. * Áµsh Á»¯ ©PõÁ¼ A¤Â¸zvz vmhzvÀ öíßÚõÛP» ¤µ÷u \\zøu AkzxU Si°¸¢u BvÁõ] ©UPÒ •øÓ¯õÚ £õh\\õø»U PÀÂ°À Dk£mk E¯º PÀÂUS¨ ¤µ÷Á]zv¸¨£øu²® C»zvµ Û¯À E£Pµn[PøÍ¨ £¯ß£kzv |ÃÚ ©UPÒ \\‰PzxUS Cø\\ÁõP ©õÖ® \\‰P©õPÄ® ©õÔ²ÒÍÚº. C¸¢u÷£õx® £øÇ¯ P»õ\\õµ ©µ¦›ø©PøÍ¨ £õxPõzuÀ, `ÇÀ £õxPõ¨¦ BQ¯ÚÁØÖUS AÁºPÒ ÁÇ[S® £[PÎ¨¦ ©v¨£ÎUP¨£h ÷Ási¯ Âh¯©õS®.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 44,
+        "document_id": "geo G-7 T",
+        "page": 35
+      }
+    },
+    {
+      "id": "0269540c-bde7-4453-866c-ed7f60366000",
+      "text": "26 C»Á\\¨ £õh¡À Þôƒ¬èJ¡ îQˆ¶õ‹ ¹MJò™ P»õ\\õµ A®\\[PÐ®, ÂÇõUPÐ® C»[øP ©UPÒ \\‰Pzv¾ÒÍ £À÷ÁÖ£mh £Ç[Si°Úº, CÚ, ©u ÷Põzvµ[PÒ Gß£ÚÁØÖUS›¯ ©µ¦›ø©¯õÚ £À÷ÁÖ£mh P»õ\\õµ A®\\[PÒ, ÂÇõUPÒ Gß£Ú uÛzxÁ® ö£ØÖ ÂÍ[SQßÓÚ. CÆÁõÓõÚ uÛzxÁ•øh¯ P»õ\\õµ ÂÇõUPÒ ©ØÖ® P»õ\\õµ A®\\[PÒ ]» R÷Ç uµ¨£mkÒÍÚ. * öÁ\\õU/ ö£õ\\ß ÂÇõUPÒ * ©k©õuõ v¸ÂÇõ * w£õÁÎ¨ £siøP * µ®Çõß £siøP * Psi u»uõ ö£µíµ * |zuõº¨ £siøP * ][PÍ, uªÌ¨ ¦zuõsk ö\\¯Ø£õk PÒ 1. C»[øP ©UPÐUS E›zuõÚ ©ÛuÚõÀ E¸ÁõUP¨£mh ©ØÖ®, C¯ØøP¯õP E¸ÁõÚ ©µ¦›ø©PÎß ÁøPPÐUS I¢x Euõµn[PÒ Ãu® GÊxP. 2. C»[øP°À Aø©¢xÒÍ \\ºÁ÷u\\ A[RPõµ® ö£ØÓ E»P ©µ¦›ø©¨ £SvPøÍ EÒÍhUS® £h® JßÔøÚz u¯õ›zx E[PÒ ÁS¨£øÓ°À Põm]¨£kzxP. 3. £À÷ÁÖ CÚ[PÒ, ©u[PÒ BQ¯ÚÁØÔß ÂÇõUPÒ, öPõshõmh[PÒ Ah[Q¯ øP÷¯k JßÔøÚz u¯õ›USP. \\‰P A¤Â¸zv C»[øP öuß B]¯¨ ¤µ÷u\\zxUS›¯ J¸ |õhõS®. C¨¤µ÷u\\ |õk- PÐUQøh÷¯ E¯º¢u \\‰P A¤Â¸zv ©mhzøu Aøh¢u |õhõP C»[øP CÚ[Põn¨£mkÒÍx.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 45,
+        "document_id": "geo G-7 T",
+        "page": 36
+      }
+    },
+    {
+      "id": "427f4305-44ef-41c5-a113-4a2bcb5371bc",
+      "text": "27 C»Á\\¨ £õh¡À Þôƒ¬èJ¡ îQˆ¶õ‹ ¹MJò™ £À÷ÁÖ AÍÃkPÒ, \\‰P A¤Â¸z vz uµÄPÒ Gß£ÚÁØøÓ¨ £¯ß £kzv |õkPÎß \\‰P A¤Â¸zv ©mhzøu CÚ[ Põn»õ®. Amh Áøn 2.1 öuß B]¯¨ ¤µ÷u\\ |õk- PÎß £À÷ÁÖ£mh xøÓPÎß \\‰P A¤Â¸zvø¯ J¨¥k ö\\´x £õºUS® Âuzv»õÚ uµÄPøÍU PõmkQßÓx. AmhÁøn 2.1 öuß B]¯ |õkPÎß \\‰P A¤Â¸zvz uµÄPÒ B²Ò Gvº£õº¨¦ (Á¸h[PÒ) 2012 65.8 65.7 69.2 69.1 75.1 67.6 77.1 GÊzuÔÄ (2010) 15 Á¯x® AuØS ÷©¾® (2006) 63 (2009) 54.5 56.75 60.65 92 uµÄPÒ QøhUP ÂÀø» (2006) 98 ¤Ó¨¦ Ãu® (2010) 1000 CØS 22.2 27.3 20.3 24.1 17.6 20.4 16.8 ]_ ©µn Ãu® (2010) 1000 CØS 48 70 38 41 14 44 14 ¤µ\\Á ©µn Ãu® (2010) E°º¨ ¤Ó¨¦ 1000 CØS200 260 240 170 35 180 60 C¢v¯õ £õQìuõß ÷|£õÍ® §mhõß£[PÍõ÷uè C»[øP ©õø»wÄ|õkPÒ \\‰P A¤Â¸zvz uµÄPÒ ‰»® :- C»[øP°ß \\‰P & ö£õ¸Íõuõµz uµÄPÒ & 2014 C»[øP°ß GÊzuÔÄ Ãu® 92% BS®. CÆÃu©õÚx HøÚ¯ öußÚõ]¯ |õkP÷Íõk J¨¤k®÷£õx ©õø» wÄUS (98%) Akzu Ch©õS®. £õQìuõß ÷|£õÍ® §mhõß £[PÍõ÷uè C¢v¯õ C»[øP ©õø» wÄPÒ £h® 2.3 & öuß B]¯¨ ¤µ÷u\\®",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 46,
+        "document_id": "geo G-7 T",
+        "page": 37
+      }
+    },
+    {
+      "id": "848b76ab-54b7-4ac5-a6e7-12daa06f44a7",
+      "text": "28 C»Á\\¨ £õh¡À Þôƒ¬èJ¡ îQˆ¶õ‹ ¹MJò™ ö\\¯Ø£õk PÒ 1. Aµ]¯À ¤›ÄPøÍU öPõsh B]¯¨ £hzvÀ öuß B]¯¨ ¤µ÷u\\zxUS›¯ |õkPøÍU SÔzx, öÁmi ÷ÁÖ£kzxP. AzxskPøÍ Phuõ] ©møh°À Jmi¨ £À÷ÁÖ Áºn[PÎÚõÀ {ÇØÔ öuß B]¯ Á»¯ |õk- PÎß ö£¯ºPøÍU SÔzxU PõmkP. 2. A¨£hzøu AÁuõÛzx C»[øP°ß Aø©Âh® £ØÔ ‰ßÖ ÁõUQ¯[PÒ GÊxP. 3. AmhÁøn 2.1 CØ÷PØ£ GÊzuÔÄ E¯º ©mhzvÀ EÒÍ Cµsk |õkPøÍU SÔ¨¤kP. 4. C»[øP°ß GÊzuÔÄ E¯º ©mhzvÀ Põn¨£kÁuØS HxÁõÚ ‰ßÖ PõµoPøÍz u¸P. C»[øP°ß \\‰P A¤Â¸zv E¯º©mhzvÀ Põn¨£kÁvÀ ÷©÷» SÔ¨¤h¨£mh PõµoPøÍ¨ ÷£õ»÷Á PÀÂ ©ØÖ® _Põuõµ Á\\v PøÍ C»Á\\©õP ÁÇ[S® Aµ]ß |»ß¦›U öPõÒøP²®, ö\\ÀÁõUSa ö\\¾zxQÓx. * ÷|õ´PÐUSz uõUS¨¤iUPU Ti¯ \\Uv AvP›zuÀ. * EÍ, EhÀ Fmh® AvP›zuÀ. * B²Ò Gvº£õº¨¦ ÷©® £õhøhuÀ. * GÊzuÔÄ •ß÷ÚØÓ©øhuÀ. * ÁõÌUøPz uµ® E¯ºÁøhuÀ. * ]Ó¢u öuõÈÀ Áõ´¨¦PÒ QøhzuÀ. * B÷µõUQ¯©õÚ ÁõÌUøP ÁõÇz ysh¨£kuÀ. * |À©Ú¨£õ[SPÒ HØ£kuÀ. * B²Ò Gvº£õº¨¦ AvP›zuÀ. * ]_ ©µn Ãu® SøÓÁøhuÀ. * Pº¨¤ozuõ´ ©µn Ãu® SøÓÁøhuÀ. ]Ó¢u ÷£õåõUSÒÍ EnøÁ¨ ö£ÖuÀ ©¸zxÁ _Põuõµz",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 47,
+        "document_id": "geo G-7 T",
+        "page": 38
+      }
+    },
+    {
+      "id": "8da59138-839b-4bd2-b31a-b2b3d10a0878",
+      "text": "ysh¨£kuÀ. * |À©Ú¨£õ[SPÒ HØ£kuÀ. * B²Ò Gvº£õº¨¦ AvP›zuÀ. * ]_ ©µn Ãu® SøÓÁøhuÀ. * Pº¨¤ozuõ´ ©µn Ãu® SøÓÁøhuÀ. ]Ó¢u ÷£õåõUSÒÍ EnøÁ¨ ö£ÖuÀ ©¸zxÁ _Põuõµz xøÓ Á\\vPÒ ÷©®£õhøhuÀ PÀÂ Á\\vPÒ •ß÷ÚØÓ©øhuÀ",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 48,
+        "document_id": "geo G-7 T",
+        "page": 38
+      }
+    },
+    {
+      "id": "d4f5538b-9b11-4a85-807f-d047da3dcd54",
+      "text": "29 C»Á\\¨ £õh¡À Þôƒ¬èJ¡ îQˆ¶õ‹ ¹MJò™ 5. ©UPÎß GÊzuÔÄ E¯º©mhzvÀ Põn¨£k®÷£õx |õk ö£ÓU Ti¯ ‰ßÖ |ßø©PøÍz u¸P. 6. AmhÁøn 2.1 CøÚ AÁuõÛUS® ÷£õx B²Ò Gvº£õº¨¦ E¯º ©mhzvÀ Põn¨£k® |õmiß ö£¯øµU SÔ¨¤kP. AvÀ ö\\ÀÁõUSa ö\\¾zx® Cµsk PõµoPøÍ GÊxP. J¨£øhPÒ 1. i. B]›¯º AÔÄøµ¨£i C»[øP°ß •UQ¯ uøµz÷uõØÓ Á»¯[PøÍ EÒÍhUS® ÂuzvÀ _ØÖ»õ JßøÓz vmhªmk PÀÂa _ØÖ»õÂÀ Dk£k[PÒ. ii. _ØÖ»õÂß ÷£õx }[PÒ Psh uøµz÷uõØÓ A®\\[PÒ Põ»{ø», ©ØÖ® £ÀÁøPa `ÇÀ Gß£Ú £ØÔU Pmkøµ JßÖ GÊxP. iii. }[PÒ ö£ØÓ AÝ£Á[PÎß Ai¨£øh°À C»[øP°ß ¦Â°¯À uÛzxÁzvÀ ö\\ÀÁõU - Sa ö\\¾zx® C¯ØøP AÇQøÚ ©v¨¤kP. 2. B]›¯º AÔÄøµ¨£i E[PÒ ¤µ÷u\\zxU÷P E›zuõÚ P»õ\\õµ ©µ¦›ø©, P»õ\\õµ A®\\[PÒ Gß£Ú £ØÔ¯ uPÁÀPøÍa ÷\\P›zx ÷PõøÁ JßÖ u¯õ›USP. 3. GÊzuÔÄ, B²Ò Gvº£õº¨¦ Gß£ÚÁØøÓ AvP›¨£uØPõP ©UPøÍ AÔÅmk® Âuzv»õÚ xsk¨¤µ_µ® JßøÓz u¯õ›zx, AuøÚ¨ ö£õx ©UPÎh® £Qº¢uÎ¨£uØPõÚ |hÁiUøPPøÍ ÷©ØöPõÒÐP. E\\õzxønPÒ Social Economic Data of Sri Lanka, 2014 global.britannica.com/EB checked/topic/561906/Sri-Lanka",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 49,
+        "document_id": "geo G-7 T",
+        "page": 39
+      }
+    },
+    {
+      "id": "2f303589-6e23-4433-bb0a-c7701f84aea2",
+      "text": "©UPÎh® £Qº¢uÎ¨£uØPõÚ |hÁiUøPPøÍ ÷©ØöPõÒÐP. E\\õzxønPÒ Social Economic Data of Sri Lanka, 2014 global.britannica.com/EB checked/topic/561906/Sri-Lanka www.wikipedia.lk Pø»a ö\\õØPÒ uÛzxÁ®/ Aøh¯õÍ® Identity wkkH;dj ¦Â°¯À uÛzxÁ® Geographical identity N+f.da,Sh wkkH;dj \\‰Pz uÛzxÁ® Social identity iudchSh wkkH;dj",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 50,
+        "document_id": "geo G-7 T",
+        "page": 39
+      }
+    },
+    {
+      "id": "8e3f22e3-ee0b-4f14-9fb2-ea28a8c4b56d",
+      "text": "30 C»Á\\¨ £õh¡À Þôƒ¬èJ¡ îQˆ¶õ‹ ¹MJò™ \\•zvµ }›øn Strait iuqø ikaêh \\õº¦ Aø©Âh® Relative location idfmalaI msysàu uÛ Aø©Âh® Specific location ksrfmalaI msysàu PhÀ ø©ÀPÒ Nautical miles kdúl ie;mqï ¤µzv÷¯P ö£õ¸Íõuõµ Á»¯® Exclusive Economic Zone wkkH wd¾Ól l,dmh BÒ¦» PhÀ GÀø» Territorial sea limit rdIaà%h uqyqÿ iSudj C¯ØøP AÇS Natural beauty iajdNdúl fi!kao¾h Põ»{ø»¨£ÀÁøPø© Climatic diversity foaY.=‚l úúO;ajh _ØÖ»õU PÁºa] Tourist attraction ixpdrl wdl¾IKh EÒÍP \\©öÁÎ Intermediate plain wNHka;r ;eks;,dj ©õ› Winter YS; iD;=j ©øÇÃÌa] Rainfall j¾Idm;kh £¸ÁUPõØÖ ©øÇ Monsoon rain fudaiï j¾Idj ÷©ØPõÄøP ©øÇ Convectional rain ixjyk j¾Idj `ÓõÁÎ Cyclone jdiq<sh ÁÎ SÇ¨£® Air disturbance jdhq le,öu GßÖ® £_ø©¯õÚ PõkPÒ Evergreen forests iodyß; jkdka;r Szx¯µ® Altitude Wkak;dxYh Áµsh £SvPÒ Arid areas Y=Ial m%foaY £À¼Ú Multi-racial nyq jd¾.sl £À\\©¯ Multi-religious nyq wd.ñl P»õ\\õµ ©µ¦›ø©PÒ Cultural heritages",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 51,
+        "document_id": "geo G-7 T",
+        "page": 40
+      }
+    },
+    {
+      "id": "f33f9a70-be32-4c23-b196-852da0efd4c1",
+      "text": "Altitude Wkak;dxYh Áµsh £SvPÒ Arid areas Y=Ial m%foaY £À¼Ú Multi-racial nyq jd¾.sl £À\\©¯ Multi-religious nyq wd.ñl P»õ\\õµ ©µ¦›ø©PÒ Cultural heritages ixialD;sl Wreu E»P ©µ¦›ø©PÒ World heritages f,dal Wreu PõnUTi¯ ©µ¦›ø©PÒ Tangible heritages iamDYH Wreu Põn•i¯õu ©µ¦›ø©PÒ Intangible heritages wiamDYH Wreu _ØÖ»õ ø©¯® Tourist hub ixpdrl flakaøh AøhøP Destination .ukdka;h BvÁõ] ©UPÒ Indigenous people wdÈjdiS ck;dj öuß B]¯¨¤µ÷u\\® South Asian region ol=Kq wdishdkq l,dmh B²Ò Gvº£õº¨¦ Life expectancy wdhq wfmalaIdj GÊzuÔÄ Literacy idlaIr;dj ¤Ó¨¦ ÂQu® Birth rate Wm;a wkqmd;slh ]_ ©µn ÂQu® Infant mortality rate <ore urK wkqmd;slh ¤µÁ\\ ©µn ÂQu® Maternal mortality rate ud;D urK wkqmd;slh E°º ¤Ó¨¦UPÒ Live births iÔù Wm;a",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 52,
+        "document_id": "geo G-7 T",
+        "page": 40
+      }
+    },
+    {
+      "id": "c15c4745-001d-4078-82f9-2f465a0fa89c",
+      "text": "46 C»Á\\¨ £õh¡À Þôƒ¬èJ¡ Gôˆ«î£Ÿø‹ ¹MJò™ E¸ 3.6 C»[øP°ß Pøµ÷¯õµ {»z÷uõØÓ® v¸÷Põn©ø» {»õöÁÎ •Àø»z wÄ ÷\\¸Â» u»Â» ¦Ûu A¢÷uõÛ¯õº ÷uÁõ»¯® £¸zvzxøÓ •øÚ í\\®©õÚ }º öPõÊ®¦ öPõÊ®¦ wPÁõ¤ ©mhUPÍ¨¦ £õ]UShõ ¦zuÍ® u[PÀ» ©õzuøÓ îUPkÁ •¸øPUPØ £õº Põ¼ A®£õ¢÷uõmøh ö|k¢wÄ ¯õÌ¨£õn® |°ÚõwÄ ^|õP w£®& v¸U÷Põ÷na\\µ® ÷Põ°À öPõUPõÂÀ £ÓøÁPÒ \\µnõ»¯® _siUSÍ® £ÓøÁPÒ \\µnõ»¯® |À¿º P¢u\\õª ÷PõÂÀ ¯õ» ÁÚ¨§[Põ ]xÀ£ÆÁ ÂÀ£zx ÁÚ¨§[Põ ©ßÚõº C»[øPø¯a `Ç Aø©¢xÒÍ ö£ÍvP¨ £s¦PÎß £ÀÁøPz ußø©, PÁºa]Pµ©õÚ {»z÷uõØÓ® Gß£ÁØÔÚõÀ EÒ|õmk öÁÎ|õmk _ØÖ»õ¨ £¯oPÒ G¨ö£õÊx® Á¸øP u¸QßÓÚº.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 53,
+        "document_id": "geo G-7 T",
+        "page": 41
+      }
+    },
+    {
+      "id": "57a902d8-2cc5-45fb-bd32-356e0d873452",
+      "text": "C¯ØøP ChºPÒ, AÚºzu[PÒ öuõhº£õPÄ®, C»[øP°À HØ£k® C¯ØøP AÚºzu[PÒ öuõhº£õPÄ® PØ£÷u CÆÁzv¯õ¯zvß ÷|õUP©õS®. ÞòŸ¬è Þì˜èÀ‹ Üù˜ˆîƒèÀ‹04",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 54,
+        "document_id": "geo G-7 T",
+        "page": 42
+      }
+    },
+    {
+      "id": "195c91a6-4aac-403a-890f-faccb21a34e3",
+      "text": "50 C»Á\\¨ £õh¡À ÞòŸ¬è Þì˜èÀ‹ Üù˜ˆîƒèÀ‹ ¹MJò™ uØPõ»zvÀ E»QÀ C¯ØøP¯õP {PÊ® £À÷ÁÖ AÚºzu[PÒ öuõhº£õP AiUPi ÷PmP •iQßÓx. CÆÁõÓõÚ AÚºzu[PÒ Põµn©õP ©Ûu E°ºPÒ, Eøhø©PÒ, ö£õxa ÷\\øÁ Á\\vPÒ, C¯ØøPa `ÇÀ Gß£ÚÁØÖUS Aa_ÖzuÀPÒ HØ£kQßÓÚ. E¸ 4.1 £À÷ÁÖ AÚºzu {ø»ø©PÒ C¯ØøP¯õP AÀ»x ©Ûu ö\\¯Ø£õkPÒ Põµn©õP ©UPÐU÷Põ AÀ»x Eøhø©PÐU÷Põ ÷\\u® HØ£kzuUTi¯ {PÌÄPÒ, ChºPÒ (Hazards) GÚ AøÇUP¨£k®. Cx AiUPi AÈÄPøÍ HØ£kzuUTi¯ CÆÁõÓõÚ {PÌÄPÒ ©UPÐU÷Põ AÀ»x Eøhø©PÐU÷Põ ÷£µÈÄPøÍ HØ£kzv |õmk Aµ]Úõ¾®, AÈÄPÐUPõÚ ¤µv±kPøÍ ÁÇ[P•i¯õu \\¢uº¨£zvÀ Ax AÚºzu® (Disaster) GÚ¨£k®.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 55,
+        "document_id": "geo G-7 T",
+        "page": 43
+      }
+    },
+    {
+      "id": "c0f0e807-2c10-478a-a713-28b740f5e4c2",
+      "text": "51 C»Á\\¨ £õh¡À ÞòŸ¬è Þì˜èÀ‹ Üù˜ˆîƒèÀ‹ ¹MJò™ E¸ 4.2 Chº E¸ 4.3 AÚºzu® {»a\\›Ä ©ø»¯P¨ ¤µ÷u\\[PÎÀ {PÊ® Jº C¯ØøP Chº BS®. GÛÝ®, Ax Kº AÚºzu©õP ©õØÓ® ö£ÖÁx ©ÛuÝUS®, Eøhø©PÐUS® HØ£kzx® ÷\\uzvØ÷PØ£÷Á¯õS®. ©ÛuºPÒ CÀ»õu J¸ wÂÀ {PÊ® J¸ {»a\\›ÂÚõÀ ©ÛuºPÐU÷Põ, Eøhø©PÐU÷Põ £õv¨¦ HØ£hõÂmhõÀ Ax C¯ØøP°À {PÊ® Chº BS®. GÛÝ®, ©UPÒ AvP©õP ÁõÊ® J¸ |Pµ¨ £Sv°À HØ£k©õ°ß Ax Jº AÚºzu©õP ©õÖ®. ö\\¯Ø£õkPÒ 1. }[PÒ AÔ¢xÒÍ C¯ØøP AÚºzu[PÒ I¢vøÚU SÔ¨¤k[PÒ. 2. C¯ØøP AÚºzu® JßÔß Põµn©õP {PÇUTi¯ £õv¨¦PÒ I¢vøÚU SÔ¨¤k[PÒ. 3. C¯ØøP AÚºzu[PÒ öuõhº£õÚ £h[PøÍa ÷\\P›zx J¸ ÷PõøÁ u¯õ›²[PÒ. C»[øP°À {PÊ® C¯ØøP AÚºzu[PÒ C¯ØøP AÚºzu® Gß£x SÖQ¯ J¸ Põ»¨£Sv°À C¯ØøP¯õP {PÊ® ÷£µÈøÁU öPõskÁµUTi¯ J¸ \\Uv¯õS®. C»[øP°À {PÇUTi¯ ChºPÎÀ AvP©õÚøÁ uØPõ»zvÀ uÁÓõÚ ©Ûu ö\\¯Ø£õkPÒ Põµn©õP AÚºzu[PÍõP ©õÔÂkÁuøÚU Põn»õ®. C»[øP°À HØ£hUTi¯ AÚºzu[PÐUS Euõµn[PÍõP Áµm], öÁÒÍ®, {»a\\›Ä, `ÓõÁÎPÒ, _Úõª, ªßÚÀ, ¦Â|kUP[PÒ ÷£õßÓÚÁØøÓU SÔ¨¤h»õ®.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 56,
+        "document_id": "geo G-7 T",
+        "page": 44
+      }
+    },
+    {
+      "id": "f637ec77-29e7-4dd8-aa95-f28e6b844225",
+      "text": "52 C»Á\\¨ £õh¡À ÞòŸ¬è Þì˜èÀ‹ Üù˜ˆîƒèÀ‹ ¹MJò™ Áµm] (Drought) SÔ¨¤mh J¸ ¤µ÷u\\zvÀ SÔ¨¤mh J¸ Põ»¨ £Sv°À ö£ØÖU öPõÒÍ ÷Ási¯ \\µõ\\› ©øÇÃÌa] }shPõ»©õPU QøhUPõ©À ÷£õÁuõÀ _ØÓõh¼À HØ£k® Áµsh ußø© Áµm] GÚ AøÇUP¨ £k®. HuõÁx J¸ ¤µ÷u\\zvÀ, HuõÁx J¸ Põ»¨£Sv°À HØ£hUTi¯ Kº C¯ØøP Chº Áµm] BS®. C¯ØøP AÚºzu[PÎÀ Áµm] USU öPõkUP¨£k® •UQ¯zxÁ® SøÓÁõS®. CuØPõÚ Põµn® Áµm] G®ø© AÔ¯õx Bµ®¤zx £i¨£i¯õPz wÂµ©øh¢x •Ê ©Ûu \\‰PzxUS® ö|¸UPiø¯ HØ£kzuU Ti¯ Kº AÚºzu©õS®. C»[øP°À Áµm]°ÚõÀ £õvUP¨£k® ]» ©õÁmh[PÒ £h® 4.1 CÀ Põmh¨£mkÒÍÚ. Áµm] HØ£kÁuØPõÚ Põµn[PÒ : }shPõ»¨ £Sv°À ©øÇ ÃÌa] SøÓÁøhuÀ. PõkPÐUSz w øÁzuÀ. Áµm]¯õÚ PõØÖUPÒ Ã_uÀ. §÷PõÍzvß öÁ¨£® AvP›zuÀ. uõÁµ¨÷£õºøÁø¯ APØÖuÀ. A®£õ¢÷uõmøh ö©õÚµõPø» S¸nõPÀ ö£õ»ßÚÖøÁ¦zuÍ® AÝµõu¦µ® ¯õÌ¨£õn® QÎö|õa] •Àø»zwÄ ©ßÚõº ÁÄÛ¯õ v¸÷Põn©ø» £h® 4.1 C»[øP°À Áµm]¯õÀ £õvUP¨£k® ]» ©õÁmh[PÒ Áµm]¯õÀ HØ£k® £õv¨¦UPÒ 1. ©ÛuÝUS HØ£k® £õv¨ ¦UPÒ. 2. _ØÓõh¾US HØ£k® £õv¨ ¦UPÒ GÚ ÁøP¨£kzu •i²®.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 57,
+        "document_id": "geo G-7 T",
+        "page": 45
+      }
+    },
+    {
+      "id": "c00223db-4b7b-4ee5-a0fb-186c22a59a88",
+      "text": "53 C»Á\\¨ £õh¡À ÞòŸ¬è Þì˜èÀ‹ Üù˜ˆîƒèÀ‹ ¹MJò™ ©ÛuÝUS HØ£k® £õv¨¦UPÒ * }º¨ £ØÓõUSøÓ HØ£hÀ. * ÂÁ\\õ¯ AÖÁøh AÈÁøhuÀ. * EnÄ¨ £ØÓõUSøÓ. * öuõØÖ ÷|õ´PÒ £µÄuÀ. * Â»[SPÐUS¨ £õv¨¦ HØ£hÀ. _ØÓõh¾US HØ£k® £õv¨¦UPÒ * `Ç¼ß öÁ¨£® AvP›zuÀ. * uøµURÌ }º©mh® SøÓÁø huÀ. * Põmkz w HØ£hÀ. * PõkPÒ AÈUP¨£hÀ. * E°›¯À ÁÍ[PÒ AÈÁøhuÀ. * ©s ÁÍªÇzuÀ. * _Ø ÓõhÀ ÁÚ¨¦¨ £õv¨£øhuÀ. ö\\¯Ø£õk PÒ 1. C»[øP°À Áµm]°ÚõÀ £õvUP¨£k® ¤µ÷u\\[PøÍ C»[øP¨ £hö©õßÔÀ SÔzx {Ó¢wmk[PÒ. 2. Áµm] HØ£kÁvÀ ö\\ÀÁõUSa ö\\¾zx® PõµoPÒ CµsiøÚ GÊx[PÒ. 3. AÚºzu® ©Ûu ö\\¯Ø£õkPÎß «x GÆÁõÖ uõUP® ö\\¾zxQßÓx Gß£x öuõhº£õP ‰ßÖ PõµoPøÍ •ßøÁ²[PÒ. 4. Áµm] {»Ä® \\¢uº¨£ö©õßÔÀ `Ç¼À {PÊ® ©õØÓ[ PøÍ AÁuõÛz÷uõ AÀ»x uPÁÀPøÍz vµmi÷¯õ AÔUøPö¯õßÔøÚz u¯õº ö\\´²[PÒ.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 58,
+        "document_id": "geo G-7 T",
+        "page": 46
+      }
+    },
+    {
+      "id": "02a0273c-3139-4369-866f-5778702105a0",
+      "text": "54 C»Á\\¨ £õh¡À ÞòŸ¬è Þì˜èÀ‹ Üù˜ˆîƒèÀ‹ ¹MJò™ öÁÒÍ® BÖPÒ, SÍ[PÒ, |vPÒ, }ºz ÷uUP[PÒ Gß£ÁØÔÀ SÖQ¯ Põ»¨ £Sv°À AvPÍÁõÚ }º ÷\\¸©õ°ß AøÁ {µ®¤¨ ö£¸UöPkUP Bµ®¤US®. uØ Põ»zvÀ, BÖPÒ, PõÀÁõ´PÒ CÀ»õu |Pº¨¦Ó¨ ¤µ÷u\\[ PÎ¾® Th ]Ô¯ J¸ ©øÇUS® öÁÒÍ® ö£¸UöPk¨£uøÚU Põn•iQßÓx. C»[øP°À öÁÒÍzvÚõÀ £õvUP¨£k® ]» ©õÁmh[PÒ £h® 4.2 CÀ Põmh¨£mkÒÍÚ. GÛÝ®, ©øÇ wÂµ ©øh²©õ°ß C»[øP°ß AøÚzx ©õÁmh[ PÎ¾® öÁÒÍ AÚºzu® HØ£h»õ®. öÁÒÍ¨ ö£¸UQØPõÚ Põµn[PÒ * öuõhº¢x ö£´²® Pk® ©øÇ. * ©ø»|õmk¨ £SvPÎÀ PõkPøÍ AÈzuÀ. * uõÌ {»[PøÍ {µ¨¦uÀ. * BØÖ¨ £kUøPPÎÀ ©nÀ APÌuÀ. ö£õ»ßÚÖøÁ ©mhUPÍ¨¦ A®£õøÓ ©õzuøÓ Põ¼ PÐzxøÓ CµzvÚ¦› öPõÊ®¦ P®£íõ £h® 4.2 C»[øP°À öÁÒÍ¨ö£¸UQÚõÀ £õvUP¨£k® ]» ©õÁmh[PÒ",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 59,
+        "document_id": "geo G-7 T",
+        "page": 47
+      }
+    },
+    {
+      "id": "9c4d446b-6b5c-490e-bbb2-4cba1d15bdf6",
+      "text": "55 C»Á\\¨ £õh¡À ÞòŸ¬è Þì˜èÀ‹ Üù˜ˆîƒèÀ‹ ¹MJò™ ö\\¯Ø£õk PÒ 1. i. C»[øP¨ ¦ÓÄ¸Á¨ £hö©õßÔÀ öÁÒÍ¨ö£¸US HØ£k® I¢x |v¨ £ÒÍzuõUSPøÍU SÔzx¨ ö£¯›k[PÒ. ii . öÁÒÍ¨ö£¸UQØS Em£k® I¢x ©õÁmh[PøÍ A¨£hzv÷»÷¯ {Ó¢wmiU Põmk[PÒ. 2. öÁÒÍ¨ö£¸US AÚºzu® AvP® {PÊ® Põ»{ø» Á»¯zvøÚ¨ ö£¯›kP. 3. öÁÒÍ¨ö£¸US AÚºzu® HØ£hUTi¯ E»º Á»¯ ©õÁmh[PÒ ‰ßÔøÚz u¸P. 4. öÁÒÍ¨ö£¸USU Põm] JßøÓa ]zvµ©õP Áøµ²[PÒ. {»a\\›Ä E¯º{»¨ £Sv JßÔß ö£¸® £Sv £õøÓPÒ, £µÀPÒ, ©s voÄPÐhß \\›öÁõßÔÀ RÈÓ[SuÀ {»a\\›Ä GÚ AøÇUP¨ £k®.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 60,
+        "document_id": "geo G-7 T",
+        "page": 48
+      }
+    },
+    {
+      "id": "18f12a1d-bebf-4f30-9caa-9e568f802d68",
+      "text": "56 C»Á\\¨ £õh¡À ÞòŸ¬è Þì˜èÀ‹ Üù˜ˆîƒèÀ‹ ¹MJò™ C»[øP°À uØPõ»zvÀ AvP® {PÊö©õ¸ AÚºzu® CxÁõS®. Cx C¯ØøP¯õP |øhö£Ö® J¸ ö\\¯ß•øÓ¯õP C¸¨¤Ý®Th, ©õÛh ö\\¯Ø£õkPÒ CvÀ ö\\ÀÁõUSa ö\\¾zv²ÒÍÚ. {»a\\›Ä HØ£kÁvÀ ö\\ÀÁõUSa ö\\¾zx® PõµoPøÍ Cµsk ¤›ÄPÍõP¨ ¤›UP»õ®. C¯ØøP¯õÚ PõµoPÒ ©õÛhU PõµoPÒ CøhÂhõx öuõhº¢x ö£´²® ©øÇ. ©ø»¨¤µ÷u\\[PÎÀ PõkPÐUSz w øÁzuÀ. ö\\[SzuõÚ \\õ´Ä öPõsh {»[PÒ. ö£õ¸zu©õÚ vmhªh¼ßÔ ©ø»¨ ¤µ÷u\\[PÎÀ {»zøu¨ £¯ß£kzuÀ. ÁõÛø»¯õ»Èu¾USm£mh £õøÓ¨ £øhPÒ Põn¨£hÀ. Pmhh {º©õn |hÁiUøPPÎß ÷£õx, ÷£õv¯ÍÄ {»zøu B´Ä ö\\´¯õø©. ¦Â |kUP[PÒ. C¯ØøP¯õÚ }º ÁÈPøÍz uøh ö\\´uÀ. ÷©mk {»[PÎÀ }øµa ÷\\ªzx øÁzuÀ. C»[øP°À {»a\\›ÄUSÒÍõS® ]» ©õÁmh[PÒ £h® 4.3 CÀ Põmh¨£mkÒÍÚ. {»a\\›ÂÚõÀ HØ£k® £õv¨¦UPÒ ©õzuøÍ Psi £xøÍ ÷PPõø» ~Áöµ¼¯õ ©õzuøÓ Põ¼ PÐzxøÓ CµzvÚ¦› £h® 4.3 C»[øP°À {»a\\›ÄUSÒÍõS® ]» ©õÁmh[PÒ * E°º, Eøhø©PÒ ÷\\u©øhuÀ. * £°º {»[PÒ ÷\\u©øhuÀ. * `ÇÀ ÷\\u©øhuÀ. * }ºz÷uUP[PÎÀ ©s £iu¾®, }º ÁÈPÒ, BÖPÒ uøh¨£ku¾®. * EmPmhø©¨¦ Á\\vPÒ AÈÁøhuÀ. * ©UPÎß C¯À¦",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 61,
+        "document_id": "geo G-7 T",
+        "page": 49
+      }
+    },
+    {
+      "id": "e1d6ac20-5f90-4793-8f40-e6caf1f3d737",
+      "text": "E°º, Eøhø©PÒ ÷\\u©øhuÀ. * £°º {»[PÒ ÷\\u©øhuÀ. * `ÇÀ ÷\\u©øhuÀ. * }ºz÷uUP[PÎÀ ©s £iu¾®, }º ÁÈPÒ, BÖPÒ uøh¨£ku¾®. * EmPmhø©¨¦ Á\\vPÒ AÈÁøhuÀ. * ©UPÎß C¯À¦ ÁõÌUøP £õv¨ £øhuÀ.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 62,
+        "document_id": "geo G-7 T",
+        "page": 49
+      }
+    },
+    {
+      "id": "8043311d-0749-4909-b42c-443c6d579e43",
+      "text": "57 C»Á\\¨ £õh¡À ÞòŸ¬è Þì˜èÀ‹ Üù˜ˆîƒèÀ‹ ¹MJò™ ö\\¯Ø£õk PÒ 1. {»a\\›Ä GßÓõÀ GßÚ Gß£uøÚa _¸UP©õP AÔ•P® ö\\´²[PÒ. 2. AvPÍÄ {»a\\›ÄPÒ {PÊ® ©õÁmh[PÎÀ I¢vøÚ C»[øP¨ £hö©õßÔÀ SÔzx {Ó¢wmk[PÒ. 3. ¤ßÁ¸ÁÚÁØÖÒ {»a\\›ÄPÎÀ ö\\ÀÁõUSa ö\\¾zx® PõµoPøÍ CÚ[Psk GÊx[PÒ. PõØÖ, Pk® ©øÇ, E¯º öÁ¨£{ø», Pk® öÁ¨£®, uõÌ{»[PøÍ {µ¨¦uÀ, AvP \\›ÄPÐhÚõÚ {»®, ©ø»¨ ¤µ÷u\\[PÎÀ £°›hÀ, \\©uøµ¯õÚ {»®, E¯º {»[PÎÀ }øµa ÷\\ªzx øÁzuÀ, |v ÁÈPøÍz uøh ö\\´uÀ, {» |kUP[PÒ HØ£hÀ. 4. {»a\\›öÁõßÔß÷£õx {PÇUTi¯ AÚºzu[PøÍ EÒÍhUQ¯öuõ¸ _Áöµõmiø¯z u¯õº ö\\´²[PÒ. 5. {»a\\›ÂøÚz uÂºzxUöPõÒÁuØPõP ÷©ØöPõÒÍU Ti¯ ‰ßÖ |hÁiUøPPøÍ •ßøÁ²[PÒ. `ÓõÁÎPÒ (Cyclones) J ¸ _ È Á i Â À ª P Ä ® ÷ Á P © õ P a _ÇßÖ £»©õP Ã_® PõØÖ `ÓõÁÎ GÚ AøÇUP¨£k®. ¯õÌ¨£õn® v¸÷Põn©ø» AÝµõu¦µ® ö£õ»ßÚÖøÁ ©mhUPÍ¨¦ A®£õøÓ ÁÄÛ¯õ £h® 4.4 C»[øP°À `ÓõÁÎPÎß uõUPzvØS Em£k® ]» ©õÁmh[PÒ A¯Ú ©sh»¨ £SvPÎÀ {»Ä® E¯º öÁ¨£•®, Auß Põµn©õP E¸ÁõS® uõÇ•UP ø©¯[PÐ® `ÓõÁÎPÒ HØ£hU Põµn©õQßÓÚ. C»[øP A¯Ú ©sh»zvÀ Aø©¢xÒÍ J¸",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 63,
+        "document_id": "geo G-7 T",
+        "page": 50
+      }
+    },
+    {
+      "id": "c473ca2b-5ec1-4e91-89a2-dfcad9e8874a",
+      "text": "uõUPzvØS Em£k® ]» ©õÁmh[PÒ A¯Ú ©sh»¨ £SvPÎÀ {»Ä® E¯º öÁ¨£•®, Auß Põµn©õP E¸ÁõS® uõÇ•UP ø©¯[PÐ® `ÓõÁÎPÒ HØ£hU Põµn©õQßÓÚ. C»[øP A¯Ú ©sh»zvÀ Aø©¢xÒÍ J¸ |õhõS®. Á[PõÍ Â›Shõ¨ ¤µ÷u\\zvÀ AiUPi E¸ÁõS® uõÇ•UP ø©¯[PÎß ö\\ÀÁõUSU Põµn©õP J¸ wÁõPU Põn¨ £kQßÓ C»[øP²® AiUPi `ÓõÁÎ PÎß ö\\ÀÁõUQØS Em£kQßÓx. Ca `ÓõÁÎPÒ QÇUS ©ØÖ® Áh QÇUSU Pøµ÷¯õµ® ÁÈ÷¯ C»[øPz wÂÝÒ ~øÇ¢x £õ›¯öuõ¸ ¤µ÷u\\zvÀ",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 64,
+        "document_id": "geo G-7 T",
+        "page": 50
+      }
+    },
+    {
+      "id": "e6d24024-f036-4764-aed4-7ad19c04e33c",
+      "text": "58 C»Á\\¨ £õh¡À ÞòŸ¬è Þì˜èÀ‹ Üù˜ˆîƒèÀ‹ ¹MJò™ £µ¢x Áh÷©ØSU Pøµ÷¯õµ©õPz wÂøÚ Âmk öÁÎ÷¯ÖQßÓÚ. Cx wÂß ÁhUS ©ØÖ® QÇUS¨ ¤µ÷u\\[PÎÀ AvP uõUP[PøÍ HØ£kzxQßÓx. C»[øP¨ £hzvøÚ AÁuõÛzx, `ÓõÁÎPÎß uõUPzvØS Em£hUTi¯ ¤µ÷u\\[PøÍ CÚ[Põq[PÒ. Pøµ÷¯õµ¨ ¤µ÷u\\[PÎÀ PhÀ ö£¸UöPkzuÀ. Pk® ©øÇ ©ØÖ® ÷ÁP©õÚ PõØÖU Põµn©õP E°º ©ØÖ® Eøhø©PÐUSa ÷\\u[PÒ HØ£hÀ. ©µ[PÒ ÂÊÁuõÀ ªß\\õµ®, ÷£õUSÁµzx ÷£õßÓ EmPmhø©¨¦ Á\\vPÒ ^ºSø»uÀ. £°ºa ö\\´øP AÈÁøhuÀ. `ÓõÁÎ°ÚõÀ HØ£k® £õv¨¦UPÒ ö\\¯Ø£õk PÒ 1. `ÓõÁÎ GßÓõÀ GßÚ? 2. `ÓõÁÎ°ÚõÀ £õvUP¨£k® ©õÁmh[PøÍ C»[øP¨ £hö©õßÔÀ SÔzx A¨¤µ÷u\\[PøÍ {Ó¢wmk[PÒ. 3. `ÓõÁÎ°ÚõÀ HØ£hUTi¯ £õv¨¦UPÒ EÒÍhUQ¯ BÁn® JßøÓz u¯õº ö\\´²[PÒ. 4. C¨£õv¨¦UPøÍU SøÓzxUöPõÒÁuØPõÚ B÷»õ\\øÚ PøÍ •ßøÁ²[PÒ. Ci ªßÚÀ uõUSuÀ •QÀ JßÔÝÒ EshõPUTi¯ C»zvµÛ¯À ö\\¯Ø£õk Põµn©õP JßÖUöPõßÖ GvµõÚ Cµsk \\UvPÐUQøh÷¯ |øhö£Ö® ªß\\Uvø¯ ÂkÂzuÀ ö\\¯ß•øÓ ªßÚÀ GÚ AøÇUP¨£k®.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 65,
+        "document_id": "geo G-7 T",
+        "page": 51
+      }
+    },
+    {
+      "id": "300526be-5abd-4d1b-afb8-e0da8eecc759",
+      "text": "59 C»Á\\¨ £õh¡À ÞòŸ¬è Þì˜èÀ‹ Üù˜ˆîƒèÀ‹ ¹MJò™ Ci ªßÚÀ uõUPUTi¯ \\¢uº¨£[PÒ. ©µzvß RÌ C¸¢u I¢x ÷£º ªßÚÀ uõUQ ©µn®. }µõiUöPsi¸¢u J¸ ©õnÁß ªßÚÀ uõUQ ©µn®. öuõø»÷£]°À Eøµ¯õiU öPõsi¸¢u J¸Áº ªßÚÀ uõUQ ©µn®. uøh BÎ JßÔß ÁÈ÷¯ ªßÚÀ uõUP®. CÆÁõÖ ªß\\Uvø¯ ÂkÂzuÀ •QÀ JßÔß EÒ÷Í÷¯õ AÀ»x Cµsk ÷©P[PÐUS Cøh°÷»õ AÀ»x •QÀ JßÔÝÒ C¸¢x §ªU÷Põ {PÇ»õ®. Cuß ‰»® ¦Â÷©Ø£µ¨¤À £õ›¯ £õv¨¦UPÒ HØ£h»õ®. C»[øP°À ö£¸®£õ¾® ªßÚ¼ß uõUP® {PÌÁx ÷©ØPõÄøPa ö\\¯ß•øÓ {PÊ® ©õºa- & H¨µÀ ©ØÖ® JU÷hõ£º & |Á®£º BQ¯ ©õu[PÎ»õS®. GÛÝ®, Bsiß G¢u J¸ Põ»¨£Sv°¾® ªßÚÀ uõUP® {PÌÁuØPõÚ \\õzv¯® Esk. Ci ªßÚÀ uõUPzvÚõÀ {PÊ® £õv¨¦UPÒ * ©Ûu E°ºPÐUS® , Eøhø©PÐUS® ÷\\u[PÒ HØ£hÀ. * ªß P®¤z öuõSv PÒ ^ºSø»uÀ. * ÃkPÒ AÈÁøhuÀ . * öu õhº£õhÀ Áø»¨¤ßÚÀ ö\\¯¼ÇzuÀ. Ci ªßÚÀ Â£zxUPøÍz uÂºzxU öPõÒÍÀ * C iªßÚ¾hßTi¯ ©øÇ ÷|µ[PÎÀ, vÓ¢u öÁÎPÎÀ |h©õkÁøuz uÂºzuÀ. * E¯º¢u ©µ[PÎß R Ì {ØPõv¸zuÀ. * AÆÁõÓõÚ \\¢uº¨£ [PÎÀ £¯n[PøÍz uÂºzxU öPõÒÍÀ. * ÃmiÝÒ GÀ»õ ª ß _ØÖUPøÍ²® xsizx ÂkuÀ.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 66,
+        "document_id": "geo G-7 T",
+        "page": 52
+      }
+    },
+    {
+      "id": "af71952b-ff98-4e3d-aa8a-d77c0ef506a4",
+      "text": "60 C»Á\\¨ £õh¡À ÞòŸ¬è Þì˜èÀ‹ Üù˜ˆîƒèÀ‹ ¹MJò™ * öu õø»÷£]ø¯¨ £¯ß£kzuõv¸zuÀ. * E¯º AÊzu ªß P®¤PÎß RÌ Pmhh[PøÍ {º©õoUPõv¸zuÀ. * ÃkPøÍU Pmk®÷£õx Ãmk ªß _ØÔøÚ¨ £°Ø] ö£ØÓ öuõÈÀ~m£Â¯»õÍºPøÍU öPõsk £õxPõ¨£õÚ •øÓ°À Aø©zuÀ. ö\\¯Ø£õk ªßÚÀ uõUPzvÚõÀ HØ£k® Â£zxUPøÍz uÂº¨£uØS AÀ»x SøÓzxU öPõÒÁuØS ÷©ØöPõÒÍUTi¯ |hÁiUøPPøÍ EÒÍhUQ ö£õx ©UPøÍ AÔÄÖzx ÁuØPõÚ B÷»õ\\øÚ¨ £mi¯À JßøÓz u¯õº ö\\´²[PÒ. _Úõª \\•zvµ¨ £kUøP°À {PÊ® ¦Â|kUP®, {»a\\›Ä, G›©ø» öÁi¨¦ Gß£Ú Põµn©õP Pøµø¯ ÷|õUQÁ¸® ÷ÁP©õÚ Aø» \"\"_Úõª'' GÚ AøÇUP¨£k®. \"_Úõª\" Gß£x á¨£õß ö©õÈa ö\\õÀ BS®. \"Tsu'' (_) Gß£x xøÓ•P® GÚÄ® \"nami'' (Úõª) Gß£x Aø» GÚÄ® ö£õ¸Ò£k®. _Úõª GÚ¨£kÁx Pøµø¯ ÷|õUQ Á¸® E¯µ® Ti¯ PhÀ Aø» BS®. C»[øP J¸ wÁõP Aø©¢v¸¨£uÚõÀ `ÇÄÒÍ AøÚzx¨ ¤µ÷u\\[PÐUS® _Úõª°ß A£õ¯® Esk. Cx HøÚ¯ AÚºzu[PøÍ¨ ÷£õ» AiUPi {PÇõxÂiÝ®, CuÚõÀ HØ£hUTi¯ uõUP® ªPÄ® AvP©õS®. 2004 i\\®£º 26 B® vPv C»[øPø¯z uõUQ¯ ªPU öPõlµ©õÚ _Úõª AÚºzuzvÚõÀ E°ºPÐUS®, Eøhø©PÐUS® £õ›¯ ÷\\u[PÒ HØ£mhÚ. _Úõª",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 67,
+        "document_id": "geo G-7 T",
+        "page": 53
+      }
+    },
+    {
+      "id": "e8d12c38-54e4-4490-a578-920f7d1f445c",
+      "text": "Ý®, CuÚõÀ HØ£hUTi¯ uõUP® ªPÄ® AvP©õS®. 2004 i\\®£º 26 B® vPv C»[øPø¯z uõUQ¯ ªPU öPõlµ©õÚ _Úõª AÚºzuzvÚõÀ E°ºPÐUS®, Eøhø©PÐUS® £õ›¯ ÷\\u[PÒ HØ£mhÚ. _Úõª HØ£kÁuØPõÚ Põµn[PÒ * \\•zvµ¨ £Sv°À {PÊ® ¦Â|kUP®. * {»a\\›ÄPÒ. * PhØ£kUøP°À {PÊ® G›©ø» öÁi¨¦. * \\•zvµ¨ £Sv°À BPõ¯U PØPÒ ÂÊuÀ.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 68,
+        "document_id": "geo G-7 T",
+        "page": 53
+      }
+    },
+    {
+      "id": "24c52db1-2eaf-4482-b590-4c273574a7cf",
+      "text": "61 C»Á\\¨ £õh¡À ÞòŸ¬è Þì˜èÀ‹ Üù˜ˆîƒèÀ‹ ¹MJò™ _ Ú õª ° Ú õÀ HØ£k® ÷\\u[PÒ E°›Ç¨¦UPÒ }º, ªß\\õµ®, ÷£õUSÁµzx ÷£õßÓ EmPmhø©¨¦ Á\\vPÒ ÷\\u©øhuÀ. Pøµ÷¯õµ «ß¤i, x®¦ ©ØÖ® _ØÖ»õU øPzöuõÈÀ BQ¯øÁ £õvUP¨£hÀ. uõÁµ[PÒ, ª¸P[PÒ AÈuÀ. }º, {»® ©õ\\øhuÀ. ©UPÒ EÍŸv¯õP¨ £õvUP¨£hÀ ' ÃkPÒ, Pmhh[PÒ, ÁõPÚ[PÒ ©ØÖ® ÁºzuP {ø»¯[PÐUS® ÷\\u[PÒ HØ£hÀ. ©UPÒ Ch® ö£¯ºUP¨£hÀ. Pøµ÷¯õµU PhÜ÷µ›PÒ Pøµ÷¯õµz uõÁµ[PÒ, \\x¨¦ {»[PÒ, •¸øPU PØ£õøÓPÒ ÷£õßÓøÁ AÈÁøhuÀ. _Úõª°À C¸¢x GÆÁõÖ u¨¤zxU öPõÒÍ»õ®. * _Úõª°ß A£õ¯ Ga\\›UøP öuõhº£õP ÂÈ¨¦hß ö\\¯Ø£hÀ. * _Úõª AÚºzu® JßÔß ÷£õx ÷|µi¯õP AÁuõÛ¨£uØPõPU Phø» ÷|õUQa ö\\À»õv¸zuÀ. * EhÚi¯õP E¯µ©õÚ Chö©õßøÓ ÷|õUQa ö\\À»À.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 69,
+        "document_id": "geo G-7 T",
+        "page": 54
+      }
+    },
+    {
+      "id": "30a96b93-33bf-4fc8-a350-4932c7aa5ee4",
+      "text": "62 C»Á\\¨ £õh¡À ÞòŸ¬è Þì˜èÀ‹ Üù˜ˆîƒèÀ‹ ¹MJò™ ö\\¯Ø£õk PÒ 1. _Úõª GßÓõÀ GßÚ Gß£øua _¸UP©õPU SÔ¨¤k[PÒ. 2. _Úõª HØ£kÁuØPõÚ ‰ßÖ Põµn[PøÍ GÊx[PÒ. 3. C»[øPø¯¨ ö£¸©ÍÄ £õvzu _Úõª AÚºzu® G¨ö£õÊx {PÌ¢ux? 4. C»[øP°À _Úõª°ÚõÀ £õvUP¨£mh ¤µ÷u\\[PøÍ C»[øP¨ ¦ÓÄ¸Á¨£hö©õßÔÀ SÔzx¨ ö£¯›k[PÒ. ¦Â |kUP® ¦Â°ß Em£Sv°À {»Ä® E¯º öÁ¨£® ©ØÖ® A•UP ÷ÁÖ£õkPÒ Põµn©õPz vjöµÚ {PÊ® ¦Â°ß Aø\\Ä ¦Â|kUP® GÚ AøÇUP¨£k®. C»[øP°ß £» £SvPÎ¾® ¦Â |kUP® öuõhº£õÚ Aa_ÖzuÀPÒ Põn¨£mhõ¾®, Ax Kº AÚºzu {ø»ø©¯õP ©õÔÂhÂÀø» Gß÷Ó TÓ ÷Ásk®. GÛÝ®, C»[øPø¯a _ØÔ²ÒÍ |õkPÎÀ Ch®ö£Ö® ¦Â|kUP[PÍõÀ C»[øPUS® £õv¨¦UPÒ HØ£hU Tk®. ¦Â |kUP[PÒ HØ£kÁuØPõÚ Põµn[PÒ * ¦Â°ß Em£Sv°À Põn¨£k® Av E¯º öÁ¨£® ©ØÖ® A•UP ÷ÁÖ£õkPÒ. * £õ›¯ }ºz÷uUP[PÒ ©ØÖ® HøÚ¯ £õ›¯ AÍÂ»õÚ Pmhh {º©õn |hÁiUøPPÒ Põµn©õP¨ ¦Â°ß \\©{ø» ^ºSø»uÀ. * AqU Ssk öÁi¨¦UPÒ. * G›©ø» öÁi¨¦UPÒ. ¦Â |kUPzvÚõÀ HØ£hUTi¯ ÷\\u[PÒ * E°ºPÐUS®, Eøhø©PÐUS® ÷\\u® HØ£kuÀ. * ©UPÎß Ch¨ ö£¯ºÄ. * AßÓõh |hÁiUøPPÒ £õv¨£øhuÀ.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 70,
+        "document_id": "geo G-7 T",
+        "page": 55
+      }
+    },
+    {
+      "id": "77f38f35-92eb-497b-bf80-4c8ba7d38851",
+      "text": "63 C»Á\\¨ £õh¡À ÞòŸ¬è Þì˜èÀ‹ Üù˜ˆîƒèÀ‹ ¹MJò™ * £°º {»[PÒ AÈÁøhuÀ. * uõÁµ[PÐ®, Â»[SPÐ® AÈÁøhuÀ. ö\\¯Ø£õk PÒ ¦Â |kUPzvÚõÀ HØ£k® £õv¨¦UPøÍ EÒÍhUQ¨ ¤ßÁ¸® AmhÁønø¯¨ §ºzv ö\\´P. ©UPÐUS HØ£k® £õv¨¦UPÒ _ØÓõh¾US HØ£k® £õv¨¦UPÒ AÚºzuzvØS •P® öPõkzuÀ C¯ØøP AÚºzu[PøÍ •Êø©¯õPz uÂº¨£uØS ©ÛuÚõÀ C¯»õx. GÛÝ®, AÆÁÚºzuzvÚõÀ HØ£hUTi¯ £õv¨¦UPøÍU SøÓzxU öPõÒÍ»õ®. Cuß Põµn©õP AÚºzu •Põø©zxÁ® Gß£x •UQ¯® ö£ÖQßÓx. AÚºzu •Põø©zxÁzvß Ai¨£øhU TÖPÍõÁÚ; •ßÚõ¯zu®, AÚºzu {ø»ø©°ß÷£õx ö\\¯Ø£kuÀ, AÚºzuzvß ¤ßÚµõÚ |hÁiUøPPÒ BQ¯ÚÁõS®. AÚºzu •Põø©zxÁ Ámhzvß Ai¨£øh°À ÷©÷» SÔ¨¤h¨£mh AÚºzu {ø»ø©PÎß÷£õx |h¢x öPõÒÍ ÷Ási¯ •øÓPÒ öuõhº£õÚ ]» Euõµn[PÒ R÷Ç uµ¨£mkÒÍÚ.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 71,
+        "document_id": "geo G-7 T",
+        "page": 56
+      }
+    },
+    {
+      "id": "47e915fa-1f80-45aa-94bf-1725bbd6931a",
+      "text": "64 C»Á\\¨ £õh¡À ÞòŸ¬è Þì˜èÀ‹ Üù˜ˆîƒèÀ‹ ¹MJò™ «söhÊuÀ * ¤µa]øÚPøÍ CÚ[PõnÀ. * AÁ\\µ AÚºzu ©zv¯ {ø»¯[ PøÍ Aø©zuÀ. * AÚºzuzvß ÷£õx £¯ß£kzu ÷Ási¯ E°º Põ¨¦ A[QPøÍ AÔ•P® ö\\´uÀ. * £õµ©ØÓ ö£õ¸mPøÍ E£÷¯õQU P¨ £ÇQU öPõÒÍÀ. * AÚºzuzvÚõÀ £õvUP¨£mh ©UPÎß EhÀ, EÍ B÷µõUQ¯ ÷©®£õmkUPõÚ |hÁiUøPPøÍ ÷©ØöPõÒÍÀ. * _Põuõµ {PÌa]z vmh[PøÍ |hzxuÀ. * £õv¨¦Ø÷Óõ¸US {Áõµn® ÁÇ[ SuÀ. * ^µõÚ ÁiPõ»ø©¨¦z öuõSvPøÍ Aø©zxUöPõÒÍÀ. • ß Ú õ¯ z u ® £v ¼ ÖzuÀ « s öhÊ u À •ßÚõ¯zu® * AÚºzu[PÒ {PÇUTi¯ ¤µ÷u\\[PøÍ CÚ[ Põn¾®, A¨¤µ÷u\\[PÎ ¼¸¢x ©UPøÍ APØÖu¾®. * AÚºzu[PÒ, Ch®ö£Ö® Põ»¨ £Sv ÷£õßÓ Âh¯[PÒ öuõhº£õP ©UPøÍ AÔÅmhÀ. * Põmk¨ ÷£õºøÁø¯¨ £õxPõzuÀ. * }÷µ¢x ¤µ÷u\\[PøÍ¨ £õxPõzuÀ. * Pmhh[PÎÀ ªßÚÀ uõ[QPøÍ¨ ö£õ¸zxuÀ. * Av\\Uv Áõ´¢u ªß\\õµU P®¤PÎß RÌ Pmhh[PøÍ {º©õoUPõx C¸zuÀ. * AÚºzu {ø»ø©PøÍz uõ[PU Ti¯ ÁøP°À ÃkPøÍ {º©õozuÀ. * A¯À |õkPÎÀ {» |kUP[PÒ HØ£iß _Úõª AÚºzu® öuõhº£õP Ga\\›UøP²hÛ¸zuÀ. £v¼ÖzuÀ * Â£zxU SÒÍõ÷Úõøµ¨ £õxPõ¨£õÚ Ch[PÐUSU öPõsk ö\\À»À.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 72,
+        "document_id": "geo G-7 T",
+        "page": 57
+      }
+    },
+    {
+      "id": "ef71d7a6-12ac-4613-9402-0aec1f7a053b",
+      "text": "¯ ÁøP°À ÃkPøÍ {º©õozuÀ. * A¯À |õkPÎÀ {» |kUP[PÒ HØ£iß _Úõª AÚºzu® öuõhº£õP Ga\\›UøP²hÛ¸zuÀ. £v¼ÖzuÀ * Â£zxU SÒÍõ÷Úõøµ¨ £õxPõ¨£õÚ Ch[PÐUSU öPõsk ö\\À»À. * Eøhø©PøÍ Âh E°ºPøÍ¨ £õxPõ¨£uØS •UQ¯zxÁ ©ÎzuÀ. * AÚºzuzxUS øu›¯©õP •P[ öPõkzuÀ. * Â£zvÚõÀ £õvUP¨£mhÁº PÐUS ©¸zxÁ EuÂPÒ, ]Qaø\\ PÒ ÁÇ[SuÀ. * APvPÍõQ¯ ©UPÐUS EnÄ, £õÚ® ÁÇ[SuÀ. * Â£zx HØ£hUTi¯ Pmhh[ PÎ¼¸¢x £õxPõ¨£õÚ Ch[P ÐUSa ö\\À»À. * A_zu©õÚ EnÄ, £õÚ[PøÍ EmöPõÒÍõv¸zuÀ.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 73,
+        "document_id": "geo G-7 T",
+        "page": 57
+      }
+    },
+    {
+      "id": "378932b0-e0c5-4590-967a-a1c0dd7f5737",
+      "text": "65 C»Á\\¨ £õh¡À ÞòŸ¬è Þì˜èÀ‹ Üù˜ˆîƒèÀ‹ ¹MJò™ ö\\¯Ø£õk PÒ 1. C¯ØøP AÚºzu[PÒ I¢vøÚ¨ ö£¯›k[PÒ. 2. C¯ØøP ChºPÒ, C¯ØøP AÚºzu[PÒ Gß£ÚÁØÖUS Cøh°»õÚ ÷ÁÖ£õkPøÍ ÂÍUS[PÒ. 3 . E[PÒ ¤µ÷u\\[PÎÀ {PÊ® AÚºzu[PøÍ Ai¨ £øh¯õPU öPõsk RÌÁ¸® AmhÁønø¯¨ §µn¨ £kzx[PÒ. C¯ØøP AÚºzu® Põµn[PÒ ÷\\u[PøÍ CÈÁÍÁõUS ÁuØPõÚ •øÓPÒ öÁÒÍ¨ ö£¸US 1. 2. Áµm]PÒ 1. 2. `ÓõÁÎPÒ 1. 2. {»a\\›ÄPÒ 1. 2. J¨£øhPÒ 1. C»[øP°À AiUPi {PÊ® C¯ØøP AÚºzu[PÒ CµsiøÚ¨ ö£¯›kP. 2. £zv›øPPÒ, \\g]øPPÒ ÷£õßÓÁØøÓ Ai¨£øh ¯õPU öPõsk C»[øP°À C¯ØøP AÚºzu[ PÎÚõÀ £õvUP¨£mh ¤µ÷u\\[PÎß £h[PøÍ EÒÍhUQ¯ uPÁÀ ÷PõøÁ JßÔøÚz u¯õº ö\\´P. 3. A¨ ¤µ÷u\\[PÎÀ AÚºzu[PÒ HØ£kÁuØPõÚ Põµn[PøÍz ÷ui •ßøÁUSP. 4. Kº AÚºzuzvÚõÀ £õvUP¨£mkÒÍ ©UPÐUS AÔÄÖzxÁuØS ÷uøÁ¯õÚ B÷»õ\\øÚPøÍ EÒÍhUQ¯öuõ¸ uPÁÀ SÔ¨¤øÚz u¯õº ö\\´²[PÒ.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 74,
+        "document_id": "geo G-7 T",
+        "page": 58
+      }
+    },
+    {
+      "id": "ff532245-c7d4-4e06-b16f-1caa7cd89918",
+      "text": "66 C»Á\\¨ £õh¡À ÞòŸ¬è Þì˜èÀ‹ Üù˜ˆîƒèÀ‹ ¹MJò™ §÷PõÍ Põ»{ø» ©õØÓ[PÒ ö£õxÁõÚ Põ»{ø»¨ £õ[SPÎÀ }shPõ» Ÿv°¾®, SÖQ¯ Põ»Ÿv°¾® {PÊ® ©õØÓ[PÒ Põ»{ø» ©õØÓ[PöÍÚ AøÇUP¨£k®. Bµ®£ Põ»zvÀ Põ»{ø» ©õØÓ[PÒ {PÌÁuØS }sh Põ»® Gkzu uõ°Ý®, uØPõ»zvÀ C¢{PÌÄPÒ SÖQ¯ Põ»¨£Sv°À Ch® ö£ÖÁøuU Põn•iQßÓx. uØPõ»zvÀ AiUPi {»Ä® Áµm] {ø»ø©PÒ, Pk[SÎº¨ £¸Á[PÒ, öÁÒÍ¨ö£¸USPÒ, `ÓõÁÎPÒ BQ¯ÚÁØøÓ CUPõ»{ø» ©õØÓ[PÎß ÂøÍÄPÍõPU P¸u»õ®. §÷PõÍ Ÿv¯õP Ch®ö£Ö® CUPõ»{ø» ©õØÓ[PÒ C»[øPø¯²® £õvzxÒÍÚ. Põ»{ø» ©õØÓ[PÒ {PÌÁuØPõÚ Põµn[PÒ * AÍÄUPvP©õP _Ámk G›ö£õ¸Ò G›uÀ. * PõhÈ¨¦ * ÁÎ©sh»® öÁ¨£©øhuÀ. * ÂÁ\\õ¯, øPzöuõÈÀ PÈÄPøÍ G›³mhÀ. * G›©ø» öÁi¨¦UPÒ Põ»{ø» ©õØÓzuõÀ C»[øP°À HØ£k® uõUP[PÒ 1. \\•zvµ }º©mh® E¯ºuÀ Põµn©õPU Pøµ÷¯õµa `ÇØöÓõSvPÒ AÈuÀ. * Pøµ÷¯õµ {»¨£SvPÒ }›À ‰ÌSuÀ. * Si}º ©õ\\øhuÀ. * Pøµ÷¯õµ A›¨¦ AvP›zuÀ. * «ß¤iU øPzöuõÈÀ £õvUP¨£h¾®, Pøµ÷¯õµU øPzöuõÈÀPÒ £õvUP¨£h¾®. 2. AvP ©øÇ Põµn©õP HØ£hUTi¯ AÚºzu[PÒ * öÁÒÍ¨ö£¸US, {»a\\›Ä ÷£õßÓ {ø»ø©PÒ HØ£hÀ. *",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 75,
+        "document_id": "geo G-7 T",
+        "page": 59
+      }
+    },
+    {
+      "id": "89412dce-0772-487e-a793-0da34fe06ee1",
+      "text": "vP›zuÀ. * «ß¤iU øPzöuõÈÀ £õvUP¨£h¾®, Pøµ÷¯õµU øPzöuõÈÀPÒ £õvUP¨£h¾®. 2. AvP ©øÇ Põµn©õP HØ£hUTi¯ AÚºzu[PÒ * öÁÒÍ¨ö£¸US, {»a\\›Ä ÷£õßÓ {ø»ø©PÒ HØ£hÀ. * E°º, Eøhø©PÐUSa ÷\\u[PÒ HØ£hÀ.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 76,
+        "document_id": "geo G-7 T",
+        "page": 59
+      }
+    },
+    {
+      "id": "0d365092-1ecd-4dea-a531-d549d691296f",
+      "text": "67 C»Á\\¨ £õh¡À ÞòŸ¬è Þì˜èÀ‹ Üù˜ˆîƒèÀ‹ ¹MJò™ * EmPmhø©¨¦ Á\\vPÒ AÈÁøhuÀ * ÂÁ\\õ¯ AÖÁøhPÒ SøÓÁøhuÀ. 3. ÁÎ©sh» öÁ¨£® AvP›¨£uß Põµn©õP HØ£k® AÈÄPÒ * Áµm] {ø»ø© EshõuÀ. * }º¨ £ØÓõUSøÓ. * AÖÁøhPÒ SøÓuÀ. * ÂÁ\\õ¯ •øÓø© ©ØÖ® £°º ÁøPPÎÀ {PÊ® ©õØÓ®. * öuõØÖ ÷|õ´PÒ, CÚ®Põn •i¯õu ÷|õ´PÒ £µÄuÀ. * \\¸© ÷|õ´PÒ, _Áõ\\® öuõhº£õÚ ÷|õ´PÒ, Ps ÷|õ´PÒ Gß£Ú AvP›zuÀ. * ©Ú AÊzu® E¸ÁõSuÀ. 4. Á¾a \\Uv ÁÍ[PÎß EØ£zv ©ØÖ® £¯ß£õk öuõhº£õP HØ£k® ¤µa]øÚPÒ. * öÁ¨£® AvP›¨£uß Põµn©õPU SÎ¹miPÒ, ªß Â]ÔPÒ BQ¯ÚÁØÔß £õÁøÚ AvP›zuÀ. * }º ªß \\Uv°ß EØ£zv SøÓÁøhuÀ. * ªß\\õµ®, AÚÀ ªß\\õµ® Gß£ÚÁØÖUPõÚ ÷PÒÂ AvP›zuÀ. Põ»{ø» ©õØÓ[PøÍ CÈÁÍÁõUSÁuØS ÷©ØöPõÒÍU Ti¯ |hÁiUøPPÒ * øPzöuõÈÀ, ÂÁ\\õ¯® ÷£õUSÁµzx ÷£õßÓ xøÓPÎß ‰»® öÁÎÂh¨£k® Põ£Üöµõmø\\m ÷£õßÓ w[S ÂøÍÂUS® Áõ²UPÎß AÍÂøÚU SøÓzuÀ. * PõhÈ¨¤øÚU SøÓzuÀ. * ÁÚ¨£SvPøÍ¨ £õxPõUP¨£mh JxUS¨ £SvPÍõP¨ ¤µPhÚ® ö\\´uÀ. * `Ç¾US¨ £õv¨¤øÚ HØ£kzuõu E°º Áõ²Âß £¯ß£õmiøÚ AvP›zuÀ.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 77,
+        "document_id": "geo G-7 T",
+        "page": 60
+      }
+    },
+    {
+      "id": "581966e9-f50b-40f5-8a02-82074d8207ed",
+      "text": "68 C»Á\\¨ £õh¡À ÞòŸ¬è Þì˜èÀ‹ Üù˜ˆîƒèÀ‹ ¹MJò™ * ¦ÂU÷PõÍzvß öÁ¨£zøu AvP›US® Áõ²UPøÍ (£aø\\ Ãmk Áõ²UPÒ) öÁÎÂkÁvÀ Áøµ¯øÓPøÍ HØ£kzxuÀ. * vs©U PÈÄPøÍ •Põø©zxÁ® ö\\´uÀ. * AÝ©v¯ØÓ Pmhh {º©õn[PøÍz ukUPa \\mh[PÎÞhõPz uøh ÂvzuÀ. * ©UPÐUS ÂÈ¨¦nºÅmhÀ. * E»Qß HøÚ¯ |õkPÐhß Cøn¢x £o¦›uÀ. ö\\¯Ø£õk PÒ 1. §÷PõÍ Põ»{ø» ©õØÓ[PÎÀ ö\\ÀÁõUSa ö\\¾zx® I¢x PõµoPøÍz u¸P. 2. §÷PõÍ öÁ¨£® AvP›¨£uõÀ {PÊ® _ØÓõhÀ £õv¨¦UPÒ ‰ßÔøÚ SÔ¨¤k[PÒ. 3. Põ»{ø» ©õØÓ[PøÍU SøÓ¨£uØS E®©õÀ GÆÁõÖ £[PÎUP •i²® Gß£øua _¸UP©õP ÂÁ›USP.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 78,
+        "document_id": "geo G-7 T",
+        "page": 61
+      }
+    },
+    {
+      "id": "c404c3b6-08c4-4444-9e4f-9da4fd9f8b79",
+      "text": "69 C»Á\\¨ £õh¡À ÞòŸ¬è Þì˜èÀ‹ Üù˜ˆîƒèÀ‹ ¹MJò™ J¨£øhPÒ 1. Põ»{ø» ©õØÓ[PøÍU SøÓ¢uÍÂÚuõUP }[PÒ £[PÎ¨¦a ö\\´¯U Ti¯ •øÓ°øÚa _¸UP©õP ÂÁ›USP. 2. Kº AÚºzuzvÚõÀ £õvUP¨£mkÒÍ ©UPÐUS ÂÈ¨¦nºøÁ HØ£kzxÁuØS¨ £õxPõ¨£õÚ B÷»õ\\øÚPøÍ EÒÍhUQ¯öuõ¸ _Áöµõmiø¯z u¯õº ö\\´²[PÒ. 3. ö\\´v¨ £zv›øPPÎß EuÂ²hß C»[øP°À CiªßÚÀ uõUP® Põµn©õP HØ£k® AÚºzu[PÒ AvP›¨£uØPõÚ Põµn[PøÍz ÷ui¯Ô¢x AÔUøP ö¯õßøÓz u¯õº ö\\´²[PÒ. 4. CÆÁõÓõÚ AÚºzuö©õßÔøÚ }[PÒ GvºöPõÒÍ ÷|›mhõÀ Av¼¸¢x u¨¦ÁuØS¨ £¯ß£kzuUTi¯ ‰ßÖ B÷»õ\\øÚPøÍ •ßøÁUSP. 5. }[PÒ ÁõÌQßÓ AÀ»x E[PÒ £õh\\õø»ø¯a _ØÔ²ÒÍ ¤µ÷u\\® JßÔÀ C¯ØøP AÚºzu® JßÖ HØ£mi¸¨¤ß A¨¤µ÷u\\zxUSa ö\\ßÖ Ax öuõhº£õP AÁuõÛ²[PÒ. i . AÆÁÚºzuzvß ÷\\u[PøÍ¨ £vÄ ö\\´P. ii . AÚºzuzvØPõÚ Põµn[PøÍz ÷ui¯Ô¢x öPõÒÐ[PÒ. iii. AøÚzxz uPÁÀPøÍ²® EÒÍhUQ¯ AÔUøP JßÔøÚ ÁS¨£øÓ°À •ßøÁ²[PÒ. iv. A¨£õv¨¦UPøÍz uk¨£uØS AÀ»x CÈÁÍ ÁõUSÁuØS¨ £¯ß£kzuU Ti¯ |hÁiU øPPøÍU P»¢xøµ¯õi •ßøÁ²[PÒ. 1. Põ»{ø» ©õØÓ[PøÍU SøÓ¢uÍÂÚuõUP }[PÒ £[PÎ¨¦a ö\\´¯U Ti¯ •øÓ°øÚa _¸UP©õP",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 79,
+        "document_id": "geo G-7 T",
+        "page": 62
+      }
+    },
+    {
+      "id": "aa3e8e04-c59e-442a-b826-cf4793f1480e",
+      "text": "øÍz uk¨£uØS AÀ»x CÈÁÍ ÁõUSÁuØS¨ £¯ß£kzuU Ti¯ |hÁiU øPPøÍU P»¢xøµ¯õi •ßøÁ²[PÒ. 1. Põ»{ø» ©õØÓ[PøÍU SøÓ¢uÍÂÚuõUP }[PÒ £[PÎ¨¦a ö\\´¯U Ti¯ •øÓ°øÚa _¸UP©õP ÂÁ›USP.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 80,
+        "document_id": "geo G-7 T",
+        "page": 62
+      }
+    },
+    {
+      "id": "366f453b-662b-4cb3-aa01-364e0dd7dd29",
+      "text": "70 C»Á\\¨ £õh¡À ÞòŸ¬è Þì˜èÀ‹ Üù˜ˆîƒèÀ‹ ¹MJò™ Pø»a ö\\õØPÒ C¯ØøP ChºPÒ Natural Hazards iajdNdúl Wmøj AÚºzu[PÒ Disasters wdmod Áµm] Drought kshÕh PõØÖ Wind iq<x §÷PõÍ® öÁ¨£©øhuÀ Global Warming f.da,Sh WKqiqï ùu Põmkz w Bush Fires <eõ.sks öÁÒÍ¨ö£¸US Flood .xj;=r {»a\\›ÄPÒ Earth Slips/ Landslides kdhhEï £õøÓPÒ Rocks mdIdK `ÓõÁÎPÒ Cyclones iq<s iq<x ªßÚÀ uõUP® Thunderbolt/Lightning wl=Kq ier C»zvµÛ¯À ÷uõØÓ¨£õk Electric phenomenon úoHq;a l%shdldß;ajh ÷©ØPõÄøPa ö\\¯ß•øÓ Convectional Process ixjyk l%shdj,sh ¦Â |kUP® Earthquake N+ñlïmdj G›©ø» öÁi¨¦ V olcanic eruption .sksl÷ msmsÍu ¦Â°ß \\©{ø» Equilibrium of the earth mDÓú iu;=,s;;dj Aq öÁi¨¦UPÒ Nuclear explosions kHIAál msmsrùï AÚºzu •Põø©zxÁ® Disaster Management wdmod l<ukdlrKh }÷µ¢x ¤µ÷u\\® Catchment Area c, fmdaIl m%foaY ªßÚÀ uõ[QPÒ Lightning Conductors wl=Kq ikakdhl A£õ¯®ªUP Á»¯[PÒ Hazardous Zones wjodkï l,dm AÁ\\µ AÚºzu {ø»¯[PÒ Emergency Disaster",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 81,
+        "document_id": "geo G-7 T",
+        "page": 63
+      }
+    },
+    {
+      "id": "8a1e3f0f-33e4-40d7-bcaa-e70e53313605",
+      "text": "rea c, fmdaIl m%foaY ªßÚÀ uõ[QPÒ Lightning Conductors wl=Kq ikakdhl A£õ¯®ªUP Á»¯[PÒ Hazardous Zones wjodkï l,dm AÁ\\µ AÚºzu {ø»¯[PÒ Emergency Disaster Centers yÈis wdmod uOHia:dk AÚºzu® öuõhº£õÚ P¸Âz öuõSvPÒ Disaster Kits wdmod lÜg, §÷PõÍU Põ»{ø» ©õØÓ[PÒ Global Climatic Changes f.da,Sh foaY.=‚l fjkiaùu G›ö£õ¸Ò G›Ä Burning of Fuel bkaOk oykh PhÀ A›¨¦ Sea erosion fjr< Ldokh PõhÈ¨¦ Deforestation jk yrKh",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 82,
+        "document_id": "geo G-7 T",
+        "page": 63
+      }
+    },
+    {
+      "id": "0aac8c89-6688-49a2-8bbd-a9d6eb57cf88",
+      "text": "Áh Aö©›UPõ öußAö©›UPõ BmiU \\•zvµ® B¤›UPõ Áh Azv»õ¢vU \\•zvµ® öuß Azv»õ¢vU \\•zvµ® C¢x \\•zvµ® B]¯õ AÄìv÷µ¼¯õ ðìƒè¬÷Š ðò¡ð´ˆî™05 £h¨ ¦zuPö©õßøÓ ªPÄ® \\›¯õPÄ®, ÂøÚzvÓÝhÝ® £¯ß£kzxÁuØSz ÷uøÁ¯õÚ Ai¨£øh AÔøÁ ÁÇ[SÁ÷u CÆÁzv¯õ¯zvß ÷|õUP©õS®.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 83,
+        "document_id": "geo G-7 T",
+        "page": 64
+      }
+    },
+    {
+      "id": "b510a5c9-3928-4cbb-a0d6-8b579517a927",
+      "text": "72 C»Á\\¨ £õh¡À ðìƒè¬÷Š ðò¡ð´ˆî™ ¹MJò™ ¦Â°¯À £õhzvøÚU PØS®÷£õx E»P® öuõhº£õÚ £À÷ÁÖ£mh uPÁÀPøÍU PØP ÷Ási÷¯Ø£kQßÓx. AzuPÁÀPøÍU PØS®÷£õx £À÷ÁÖ P¸¨ö£õ¸mPÎß RÌ u¯õº ö\\´¯¨£mkÒÍ £h[PøÍ¨ (Maps) £¯ß£kzxÁx Azv¯õÁ]¯©õQßÓx. ÷u\\¨£h[PÎÀ £À÷ÁÖ P¸¨ö£õ¸mPÎß RÌ £h[PÒ EÒÍhUP¨£mkÒÍÚ. uØPõ»zvÀ £h[PÒ AßÓõh |hÁiUøPPÎÀ £¯ß£kzu¨£h ÷Ási¯÷uõº Azv¯õÁ]¯ E£Pµn[PÍõP ©õÔ²ÒÍÚ. C»[øP {» AÍøÁ°¯À vønUPÍzvÚõÀ Aa]h¨£mk öÁÎ°h¨£mh C»[øP¨ £õh\\õø»PÐUPõÚ ÷u\\¨£hzöuõSv uØ÷£õx £õÁøÚ° ¾ÒÍ ÷u\\¨£h¨ ¦zuPzvØS Kº Euõµn©õS®. ÷u\\¨£h¨ ¦zuP ö©õßÔÞhõP, * £À÷ÁÖ ÁøP¯õÚ £h[PÒ * AÍÄzvmh® * SÔ±mk ÂÍUP® * £ha _möhs (Map Index) * vø\\ ÷£õßÓ Ai¨£øh A®\\[PøÍ AÔ¢x öPõÒÁuß ‰»® £h¨¦zuP ö©õßøÓ ªPa \\›¯õP¨ £¯ß£kzxÁuØPõÚ BØÓø»¨ ö£Ó»õ®. ö\\¯Ø£õk }[PÒ AÔ¢x øÁzxÒÍ uØ÷£õx £¯ß£õmiÀ EÒÍ ©ØÖö©õ¸ £h¨ ¦zuPzvß ö£¯øµ GÊx[PÒ.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 84,
+        "document_id": "geo G-7 T",
+        "page": 65
+      }
+    },
+    {
+      "id": "40318ee9-6086-4bfd-a86c-8813034094eb",
+      "text": "73 C»Á\\¨ £õh¡À ðìƒè¬÷Š ðò¡ð´ˆî™ ¹MJò™ £À÷ÁÖ ÁøP¯õÚ £h[PÒ ÷u\\¨£h® JßÔÀ £À÷ÁÖ ÁøP¯õÚ £h[PÒ EÒÍhUP¨£mkÒÍÚ. C»[øPz ÷u\\¨£h¨ ¦zuPz öuõSv°À, £UP® 12 CÀ uøµz÷uõØÓ® ©ØÖ® ÁiPõ»ø©¨¦, £UP® 15 CÀ ChÂÍUP¨£h®. BQ¯ÚÁØøÓ Euõµn[PÍõPU Põmh»õ®. ö\\¯Ø£õk }[PÒ £¯ß£kzx® ÷u\\¨£h¨ ¦zuPö©õßøÓ (Map book) Ai¨£øh¯õPU öPõsk AvÀ EÒÍ £À÷ÁÖ ÁøP¯õÚ £h[PøÍ¨ £UP C»UP[P÷Íõk AmhÁøn¨£kzx[PÒ. vø\\ £h® JßÔÀ vø\\ø¯U Põmk® SÔ±k Pmhõ¯©õP Ch¨£mi¸UP ÷Ásk®. GÛÝ®, ]» £h¨ ¦zuP[PÎÀ vø\\U SÔ¨¦ Põmh¨ £kÁvÀø». AÆÁõÓõÚ \\¢uº¨£[PÎÀ £hzvß uø»¨¦ Ch¨ £mi¸US® vø\\ø¯ ÁhUSz vø\\ GÚUöPõsk HøÚ¯ vø\\ PøÍ CÚ[Põn ÷Ásk®. A÷u÷£õ» ¤µ÷u\\zvß vø\\PÐU÷PØ£ £hö©õßøÓ ªPa \\›¯õP Aø©zxU öPõÒÍ»õ®. CuØS HØ£÷Á ÷u\\¨£hzvÀ Põmh¨£mkÒÍ Ch[PÒ Aø©¢xÒÍ vø\\PøÍ²® ªPa \\›¯õP CÚ[Põn»õ®. AÍÄzvmh® {»zvÀ EÒÍ AøÚzøu²® A÷u AÍÂÀ £hö©õßÔÀ Põmh •i²®. GÚ÷Á £hö©õßøÓz u¯õ›US® ÷£õx H÷uÝö©õ¸ AÍÄz vmhzøu¨ £¯ß£kzu ÷Ási²ÒÍx. £h¨ ¦zuP[PÎÀ JÆöÁõ¸ £h•® Áøµ¯¨£mkÒÍ AÍÄz vmh[PÐ® Põmh¨£mi¸US®. AÍÄzvmhzvß",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 85,
+        "document_id": "geo G-7 T",
+        "page": 66
+      }
+    },
+    {
+      "id": "b6b0a669-9b51-4ebc-ac8d-93da6396bda8",
+      "text": "h •i²®. GÚ÷Á £hö©õßøÓz u¯õ›US® ÷£õx H÷uÝö©õ¸ AÍÄz vmhzøu¨ £¯ß£kzu ÷Ási²ÒÍx. £h¨ ¦zuP[PÎÀ JÆöÁõ¸ £h•® Áøµ¯¨£mkÒÍ AÍÄz vmh[PÐ® Põmh¨£mi¸US®. AÍÄzvmhzvß Ai¨£øh°À £hzvß £¸©Ý® ÷ÁÖ£mhø©²®. _Áº £h[PøÍ²®, £h¨ ¦zuP[PÎÀ EÒÍ £h[PøÍ²® J¨¤kÁuß ‰»® CuøÚ |ßS ¦›¢x öPõÒÍ»õ®. JÆöÁõ¸ ÷uøÁPÐUS® Áøµ¯¨£k® ÷£õx, AuØ÷PØ£ AÍÄz vmh•® ÷ÁÖ£mhø©²®.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 86,
+        "document_id": "geo G-7 T",
+        "page": 66
+      }
+    },
+    {
+      "id": "a74555fa-2853-4a00-a3aa-028ab10dd016",
+      "text": "74 C»Á\\¨ £õh¡À ðìƒè¬÷Š ðò¡ð´ˆî™ ¹MJò™ C»[øP {» AÍøÁz vønUPÍzvÚõÀ u¯õ›UP¨£mh ChÂÍUP¨ £hzvÀ {»zvß yµ® 50,000cm £hzvÀ 1cm GÚU Põmk® ÁøP°À AuõÁx 1: 50,000 GßÓ AÍÄzvmhzvÀ Áøµ¯¨£mkÒÍx. ö\\¯Ø£õk }[PÒ £¯ß£kzx® ÷u\\¨£h¨ ¦zuPö©õßøÓ Ai¨£øh¯õPU öPõsk JÆöÁõ¸ £UP[PÎ¾® EÒÍhUP¨£mkÒÍ ÷u\\¨£h[PÎß AÍÄzvmh[PøÍ GÊvUPõmk[PÒ. SÔ±mk ÂÍUP® £h[PøÍ Áõ]¨£uØSU SÔ±mk ÂÍUP® AÁ]¯©õQßÓx. £hö©õßÔÀ Põmh¨£k® AøÚzxz uPÁÀPÐ® {¯©U SÔ±kPøÍ¨ £¯ß£kzvU SÔ±mk ÂÍUPzvÀ Põmh¨£mkÒÍÚ. £h[PøÍ Áõ]¨ £uØPõPU SÔ±mk ÂÍUP® £¯ß£k® •øÓø¯¨ ¤ßÁ¸® £hzøu AÁuõÛ¨£uß ‰»® AÔ¢xöPõÒÐ[PÒ.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 87,
+        "document_id": "geo G-7 T",
+        "page": 67
+      }
+    },
+    {
+      "id": "195b8c91-74c3-4dd8-9f3f-bfcd7c69d2d9",
+      "text": "75 C»Á\\¨ £õh¡À ðìƒè¬÷Š ðò¡ð´ˆî™ ¹MJò™ Á £h® 5.1 C»[øP°ß _ØÖ»õ¨ ¤µ÷u\\[PÒ",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 88,
+        "document_id": "geo G-7 T",
+        "page": 68
+      }
+    },
+    {
+      "id": "247ba866-1d10-4912-9527-d97fce6d73b1",
+      "text": "76 C»Á\\¨ £õh¡À ðìƒè¬÷Š ðò¡ð´ˆî™ ¹MJò™ ö\\¯Ø£õkPÒ 1. £h® 5.1 Cß SÔ±mk ÂÍUPzøu |ßS AÁuõÛzx £hzvÀ Põmh¨£k® JÆöÁõ¸ uPÁø»²® AuØS›¯ SÔ±møh²®, E[PÒ A¨¤¯õ\\U öPõ¨¤°À GÊx[PÒ. 2. C¨ £hzvß AÍÄzvmh® GßÚ? 3. Psi°À }[PÒ {ØS®÷£õx E[PÐUS Gzvø\\°À v¸÷Põn©ø», ©mhUPÍ¨¦, öPõÊ®¦ Gß£Ú Aø©¢v¸US®. 4. £h® 5.1 I AÁuõÛzx Â©õÚ {ø»¯[PÒ, xøÓ•P®, ÁÚÂ»[S¨ ¦P¼h[PÒ Põn¨£k® Ch[PÒ JÆöÁõßÔØS® ‰ßÖ Euõµn[PÒ Ãu® ö£¯›k[PÒ. _möhs (Index) £h¨ ¦zuP[PÎÀ APµ Á›ø\\ JÊ[QÀ u¯õ›UP¨£k® _möhs JßÖ CønUP¨£mkÒÍx. HuõÁx Kº Chzvß Aø©Âh® öuõhº£õPz ÷ui¯ÔÁuØS Cx EuÄ®. ÷u]¯ ÷u\\¨£hz öuõSv°À £UP® 104 - 109 Áøµ EÒÍhUP¨£mkÒÍ C»[øP°ß ÷£õUSÁµzx¨ £õøuPøÍU Põmk® £hzxUPõÚ _möhs 110 - 114 Áøµ¯õÚ £UP[PÎÀ Põmh¨£mkÒÍx. £h[PÎÀ ö|´¯› JßÖ Põn¨£kÁ÷uõk Aa \\xµ[PÎÀ Qøh¯õP GÊzxUPÍõ¾®, ö£¯›h¨£mkÒÍÚ. Auß£i £hzv¾ÒÍ ö|´¯›ø¯ AÁuõÛzx _möhsoÀ EÒÍ GÊzøu²®, C»UPzøu²® Ai¨£øh¯õP øÁzx Kº Chzvß Aø©ÂhzøuU PshÔ¯»õ®. ö\\¯Ø£õkPÒ 1. }[PÒ £¯ß£kzx® £h¨ ¦zuPzvß _möhsøn Ai¨£øh¯õPU öPõsk",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 89,
+        "document_id": "geo G-7 T",
+        "page": 69
+      }
+    },
+    {
+      "id": "f6df91d2-93b0-43a1-993f-e88a65787e41",
+      "text": "ø¯ AÁuõÛzx _möhsoÀ EÒÍ GÊzøu²®, C»UPzøu²® Ai¨£øh¯õP øÁzx Kº Chzvß Aø©ÂhzøuU PshÔ¯»õ®. ö\\¯Ø£õkPÒ 1. }[PÒ £¯ß£kzx® £h¨ ¦zuPzvß _möhsøn Ai¨£øh¯õPU öPõsk C»[øP°ß ‰ßÖ Ch[PÎß Aø©Âh[PøÍz ÷ui¯Ô¢x GÊx[PÒ. 2. E[PÒ £õh\\õø» Aø©¢xÒÍ |Pµzvß Aø©Âhzøua _möhsoß EuÂ²hß PshÔ¢x A¢u¨ £UPzøu²®, \\xµzxUS›¯ C»UP® ©ØÖ® GÊzx BQ¯ÁØøÓ²® GÊx[PÒ.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 90,
+        "document_id": "geo G-7 T",
+        "page": 69
+      }
+    },
+    {
+      "id": "1ba9db06-0b3c-46ff-a4ca-601b755cf039",
+      "text": "77 C»Á\\¨ £õh¡À ðìƒè¬÷Š ðò¡ð´ˆî™ ¹MJò™ £h[PøÍ¨ ¤µv ö\\´uÀ £h[PøÍ¨ ¤µv £squÀ £À÷ÁÖ •øÓPÎÀ ö\\´¯¨£k®. ¤µv £sq® •øÓPÒ öuõÈÝm£zvß ÁÍºa] Põµn©õP |ßS Â¸zvö£ØÖÒÍÚ. * ö©À¼øÇU Phuõ] ‰»® ¤µv £snÀ. * {ÇØ¤µv GkzuÀ. * Aa_¨ £v¨¦. (Aa_¨¤µv GkzuÀ) C»[øP¨ £hzvß ©õv›ö¯õßøÓ J¸ uõÎÀ ¤µv£sqÁuØS¨ £°Ø]¯ÎzuÀ C¨£õh A»Qß ‰»® Gvº£õºUP¨£kQßÓx. ÷uøÁ¯õÚ ö£õ¸mPÒ. * £h¨ ¦zuP®. * ö©À¼øÇz uõÒPÒ/ Fk Põmk® HøÚ¯ Phuõ] * ö£ß]À * Ssl] E¸ 5.1 £hzvøÚ¨ ¤µv £squÀ £i I * C»[øP°ß ÷u]¯ ÷u\\¨£hz öuõSv°¼¸¢÷uõ AÀ»x ÷ÁöÓõ¸ ÷u\\¨£h¨ ¦zuPö©õßÔÀ C¸¢÷uõ C»[øP¨ ¦Ó E¸Á¨£hö©õßøÓz öu›Ä ö\\´²[PÒ. * ÷u\\¨£hzvß «x Fk Põmk® Phuõ]ø¯ Aø\\¯õx øÁzu£i C»[øP°ß Pøµ÷¯õµ GÀø» ÁÈ÷¯¯õÚ ÷PõmiøÚz v¸zu©õP Áøµ²[PÒ. * ö©À¼øÇz uõÎøÚ ÷ÁöÓõ¸ Phuõ]°ß «x øÁzx AÆöÁÀø» ÁÈ÷¯ «sk® Áøµ²[PÒ.",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 91,
+        "document_id": "geo G-7 T",
+        "page": 70
+      }
+    },
+    {
+      "id": "c21bcb61-91a1-4cd0-b4b3-10d773d1bb6a",
+      "text": "78 C»Á\\¨ £õh¡À ðìƒè¬÷Š ðò¡ð´ˆî™ ¹MJò™ * ¤ßÚº Fk Phzx® Phuõ]ø¯ APØÔ Âmk Aøh¯õÍ® ÁÈ÷¯ C»[øP°ß Pøµ÷¯õµ GÀø» Põmh¨£kQßÓ ÷PõmiøÚ Áøµ²[PÒ. £h[PøÍ¨ ¤µvö\\´²®÷£õx ªPÄ® ÷|ºzv¯õPÄ®, xÀ¼¯©õPÄ® ¤µvö\\´uÀ AÁ]¯©õS®. * Cuß ‰»® J¸ |õmiß GÀø»ø¯ ªPa \\›¯õP¨ ¤µv ö\\´¯»õ®. Pø»a ö\\õØPÒ £h[PøÍ¨ £¯ß£kzuÀ Use of Maps is;shï mßyrKh {» AÍøÁ°¯À vønUPÍ® Survey Department ñkskafodare fomd¾;fïka;=j SÔ±mk ÂÍUP® Key iQplh vø\\ Direction ÈYdj _möhs Index iqÑh AÍÄz vmh® Scale mßudKh _Áº¨ £h® Wall Maps ì;a;s is;shï {¯©U SÔ±kPÒ Conventional signs iïu; ixfla; £h[PøÍ¨ ¤µv£squÀ Tracing Maps is;shï msg,ia lsÍu",
+      "metadata": {
+        "source": "geo G-7 T.pdf",
+        "chunk_index": 92,
+        "document_id": "geo G-7 T",
+        "page": 71
+      }
+    }
+  ]
+}
