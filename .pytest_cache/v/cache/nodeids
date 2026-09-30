@@ -1,0 +1,5 @@
+[
+  "tests/test_core.py::test_chunker_empty",
+  "tests/test_core.py::test_chunker_rejects_invalid_overlap",
+  "tests/test_core.py::test_chunker_returns_overlap_chunks"
+]
